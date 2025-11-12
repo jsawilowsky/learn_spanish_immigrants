@@ -1,0 +1,688 @@
+{
+  "civicsQuiz": [
+    {
+      "question": {
+        "spanish": "¿Cuándo celebra México su Día de la Independencia?",
+        "english": "When does Mexico celebrate its Independence Day?"
+      },
+      "options": [
+        {
+          "spanish": "16 de septiembre",
+          "english": "September 16th"
+        },
+        {
+          "spanish": "5 de mayo",
+          "english": "May 5th"
+        },
+        {
+          "spanish": "20 de noviembre",
+          "english": "November 20th"
+        },
+        {
+          "spanish": "12 de octubre",
+          "english": "October 12th"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "16 de septiembre",
+        "english": "September 16th"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la capital de México?",
+        "english": "What is the capital of Mexico?"
+      },
+      "options": [
+        {
+          "spanish": "Ciudad de México",
+          "english": "Mexico City"
+        },
+        {
+          "spanish": "Guadalajara",
+          "english": "Guadalajara"
+        },
+        {
+          "spanish": "Monterrey",
+          "english": "Monterrey"
+        },
+        {
+          "spanish": "Puebla",
+          "english": "Puebla"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ciudad de México",
+        "english": "Mexico City"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántos estados tiene México?",
+        "english": "How many states does Mexico have?"
+      },
+      "options": [
+        {
+          "spanish": "31 estados y una Ciudad de México",
+          "english": "31 states and one Mexico City"
+        },
+        {
+          "spanish": "25 estados",
+          "english": "25 states"
+        },
+        {
+          "spanish": "40 estados",
+          "english": "40 states"
+        },
+        {
+          "spanish": "20 estados",
+          "english": "20 states"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "31 estados y una Ciudad de México",
+        "english": "31 states and one Mexico City"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué civilización antigua construyó las pirámides de Teotihuacán?",
+        "english": "What ancient civilization built the pyramids of Teotihuacán?"
+      },
+      "options": [
+        {
+          "spanish": "Una civilización precolombina",
+          "english": "A pre-Columbian civilization"
+        },
+        {
+          "spanish": "Los aztecas",
+          "english": "The Aztecs"
+        },
+        {
+          "spanish": "Los mayas",
+          "english": "The Mayans"
+        },
+        {
+          "spanish": "Los olmecas",
+          "english": "The Olmecs"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Una civilización precolombina",
+        "english": "A pre-Columbian civilization"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuáles son los tres poderes del gobierno mexicano?",
+        "english": "What are the three branches of the Mexican government?"
+      },
+      "options": [
+        {
+          "spanish": "Ejecutivo, Legislativo y Judicial",
+          "english": "Executive, Legislative and Judicial"
+        },
+        {
+          "spanish": "Presidente, Congreso y Ejército",
+          "english": "President, Congress and Army"
+        },
+        {
+          "spanish": "Federal, Estatal y Municipal",
+          "english": "Federal, State and Municipal"
+        },
+        {
+          "spanish": "PRI, PAN y PRD",
+          "english": "PRI, PAN and PRD"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ejecutivo, Legislativo y Judicial",
+        "english": "Executive, Legislative and Judicial"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Quién fue el padre de la independencia mexicana?",
+        "english": "Who was the father of Mexican independence?"
+      },
+      "options": [
+        {
+          "spanish": "Miguel Hidalgo y Costilla",
+          "english": "Miguel Hidalgo y Costilla"
+        },
+        {
+          "spanish": "Benito Juárez",
+          "english": "Benito Juárez"
+        },
+        {
+          "spanish": "Emiliano Zapata",
+          "english": "Emiliano Zapata"
+        },
+        {
+          "spanish": "Pancho Villa",
+          "english": "Pancho Villa"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Miguel Hidalgo y Costilla",
+        "english": "Miguel Hidalgo y Costilla"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el símbolo nacional de México?",
+        "english": "What is the national symbol of Mexico?"
+      },
+      "options": [
+        {
+          "spanish": "El águila devorando una serpiente",
+          "english": "The eagle devouring a snake"
+        },
+        {
+          "spanish": "El nopal",
+          "english": "The nopal cactus"
+        },
+        {
+          "spanish": "La bandera tricolor",
+          "english": "The tricolor flag"
+        },
+        {
+          "spanish": "El jaguar",
+          "english": "The jaguar"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El águila devorando una serpiente",
+        "english": "The eagle devouring a snake"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué presidente abolió la esclavitud en México?",
+        "english": "Which president abolished slavery in Mexico?"
+      },
+      "options": [
+        {
+          "spanish": "Vicente Guerrero",
+          "english": "Vicente Guerrero"
+        },
+        {
+          "spanish": "Benito Juárez",
+          "english": "Benito Juárez"
+        },
+        {
+          "spanish": "Porfirio Díaz",
+          "english": "Porfirio Díaz"
+        },
+        {
+          "spanish": "Lázaro Cárdenas",
+          "english": "Lázaro Cárdenas"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Vicente Guerrero",
+        "english": "Vicente Guerrero"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la moneda oficial de México?",
+        "english": "What is the official currency of Mexico?"
+      },
+      "options": [
+        {
+          "spanish": "Peso mexicano",
+          "english": "Mexican Peso"
+        },
+        {
+          "spanish": "Dólar",
+          "english": "Dollar"
+        },
+        {
+          "spanish": "Euro",
+          "english": "Euro"
+        },
+        {
+          "spanish": "Quetzal",
+          "english": "Quetzal"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Peso mexicano",
+        "english": "Mexican Peso"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se promulgó la Constitución Política actual de México?",
+        "english": "In what year was the current Political Constitution of Mexico promulgated?"
+      },
+      "options": [
+        {
+          "spanish": "1917",
+          "english": "1917"
+        },
+        {
+          "spanish": "1810",
+          "english": "1810"
+        },
+        {
+          "spanish": "1857",
+          "english": "1857"
+        },
+        {
+          "spanish": "1945",
+          "english": "1945"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1917",
+        "english": "1917"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué país NO comparte frontera con México?",
+        "english": "Which country does NOT share a border with Mexico?"
+      },
+      "options": [
+        {
+          "spanish": "Honduras",
+          "english": "Honduras"
+        },
+        {
+          "spanish": "Guatemala",
+          "english": "Guatemala"
+        },
+        {
+          "spanish": "Belice",
+          "english": "Belize"
+        },
+        {
+          "spanish": "Estados Unidos",
+          "english": "United States"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Honduras",
+        "english": "Honduras"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántas cámaras tiene el Congreso de la Unión mexicano?",
+        "english": "How many chambers does the Mexican Congress of the Union have?"
+      },
+      "options": [
+        {
+          "spanish": "Dos: Cámara de Diputados y Senado",
+          "english": "Two: Chamber of Deputies and Senate"
+        },
+        {
+          "spanish": "Una sola cámara",
+          "english": "Only one chamber"
+        },
+        {
+          "spanish": "Tres cámaras",
+          "english": "Three chambers"
+        },
+        {
+          "spanish": "Cuatro cámaras",
+          "english": "Four chambers"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Dos: Cámara de Diputados y Senado",
+        "english": "Two: Chamber of Deputies and Senate"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué colores tiene la bandera de México?",
+        "english": "What colors does the Mexican flag have?"
+      },
+      "options": [
+        {
+          "spanish": "Verde, blanco y rojo",
+          "english": "Green, white and red"
+        },
+        {
+          "spanish": "Azul, blanco y rojo",
+          "english": "Blue, white and red"
+        },
+        {
+          "spanish": "Amarillo, azul y rojo",
+          "english": "Yellow, blue and red"
+        },
+        {
+          "spanish": "Verde, amarillo y rojo",
+          "english": "Green, yellow and red"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Verde, blanco y rojo",
+        "english": "Green, white and red"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el período presidencial en México?",
+        "english": "What is the presidential term in Mexico?"
+      },
+      "options": [
+        {
+          "spanish": "6 años sin reelección",
+          "english": "6 years without reelection"
+        },
+        {
+          "spanish": "4 años con posible reelección",
+          "english": "4 years with possible reelection"
+        },
+        {
+          "spanish": "5 años sin reelección",
+          "english": "5 years without reelection"
+        },
+        {
+          "spanish": "8 años",
+          "english": "8 years"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "6 años sin reelección",
+        "english": "6 years without reelection"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué océanos bordean a México?",
+        "english": "What oceans border Mexico?"
+      },
+      "options": [
+        {
+          "spanish": "Océano Pacífico y Océano Atlántico (Golfo de México)",
+          "english": "Pacific Ocean and Atlantic Ocean (Gulf of Mexico)"
+        },
+        {
+          "spanish": "Solo el Océano Pacífico",
+          "english": "Only the Pacific Ocean"
+        },
+        {
+          "spanish": "Solo el Océano Atlántico",
+          "english": "Only the Atlantic Ocean"
+        },
+        {
+          "spanish": "Océano Índico y Pacífico",
+          "english": "Indian Ocean and Pacific"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Océano Pacífico y Océano Atlántico (Golfo de México)",
+        "english": "Pacific Ocean and Atlantic Ocean (Gulf of Mexico)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Quién es conocido como 'Benemérito de las Américas'?",
+        "english": "Who is known as 'Benemérito de las Américas' (Meritorious of the Americas)?"
+      },
+      "options": [
+        {
+          "spanish": "Benito Juárez",
+          "english": "Benito Juárez"
+        },
+        {
+          "spanish": "Miguel Hidalgo",
+          "english": "Miguel Hidalgo"
+        },
+        {
+          "spanish": "Lázaro Cárdenas",
+          "english": "Lázaro Cárdenas"
+        },
+        {
+          "spanish": "Francisco Madero",
+          "english": "Francisco Madero"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Benito Juárez",
+        "english": "Benito Juárez"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el himno nacional de México?",
+        "english": "What is the national anthem of Mexico?"
+      },
+      "options": [
+        {
+          "spanish": "Himno Nacional Mexicano (Mexicanos, al grito de guerra)",
+          "english": "Mexican National Anthem (Mexicans, at the cry of war)"
+        },
+        {
+          "spanish": "La Cucaracha",
+          "english": "La Cucaracha"
+        },
+        {
+          "spanish": "Cielito Lindo",
+          "english": "Cielito Lindo"
+        },
+        {
+          "spanish": "México Lindo y Querido",
+          "english": "México Lindo y Querido"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Himno Nacional Mexicano (Mexicanos, al grito de guerra)",
+        "english": "Mexican National Anthem (Mexicans, at the cry of war)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año México nacionalizó el petróleo?",
+        "english": "In what year did Mexico nationalize oil?"
+      },
+      "options": [
+        {
+          "spanish": "1938",
+          "english": "1938"
+        },
+        {
+          "spanish": "1910",
+          "english": "1910"
+        },
+        {
+          "spanish": "1945",
+          "english": "1945"
+        },
+        {
+          "spanish": "1917",
+          "english": "1917"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1938",
+        "english": "1938"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué significa 'INEGI'?",
+        "english": "What does 'INEGI' stand for?"
+      },
+      "options": [
+        {
+          "spanish": "Instituto Nacional de Estadística y Geografía",
+          "english": "National Institute of Statistics and Geography"
+        },
+        {
+          "spanish": "Instituto Nacional de Educación General Integral",
+          "english": "National Institute of Comprehensive General Education"
+        },
+        {
+          "spanish": "Instituto de Energía e Industria",
+          "english": "Institute of Energy and Industry"
+        },
+        {
+          "spanish": "Instituto Nacional de Economía y Gobierno",
+          "english": "National Institute of Economics and Government"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Instituto Nacional de Estadística y Geografía",
+        "english": "National Institute of Statistics and Geography"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la principal festividad religiosa en México?",
+        "english": "What is the main religious holiday in Mexico?"
+      },
+      "options": [
+        {
+          "spanish": "Día de la Virgen de Guadalupe (12 de diciembre)",
+          "english": "Day of the Virgin of Guadalupe (December 12th)"
+        },
+        {
+          "spanish": "Navidad",
+          "english": "Christmas"
+        },
+        {
+          "spanish": "Semana Santa",
+          "english": "Holy Week"
+        },
+        {
+          "spanish": "Día de Muertos",
+          "english": "Day of the Dead"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Día de la Virgen de Guadalupe (12 de diciembre)",
+        "english": "Day of the Virgin of Guadalupe (December 12th)"
+      }
+    }
+  ],
+  "interviewQuestions": [
+    {
+      "question": {
+        "spanish": "¿Por qué quiere venir a México?",
+        "english": "Why do you want to come to Mexico?"
+      },
+      "sampleAnswer": {
+        "spanish": "Quiero venir a México por su rica historia, cultura vibrante y oportunidades en el sector automotriz. Me interesa trabajar en la industria manufacturera en ciudades como Monterrey o Querétaro.",
+        "english": "I want to come to Mexico for its rich history, vibrant culture and opportunities in the automotive sector. I am interested in working in the manufacturing industry in cities like Monterrey or Querétaro."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué sabe sobre la cultura mexicana?",
+        "english": "What do you know about Mexican culture?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sé que México tiene una herencia prehispánica increíble con civilizaciones como los mayas y aztecas. Conozco tradiciones como el Día de Muertos, la comida mexicana que es Patrimonio de la Humanidad, y artistas como Frida Kahlo y Diego Rivera.",
+        "english": "I know that Mexico has an incredible pre-Hispanic heritage with civilizations like the Mayans and Aztecs. I know traditions like Day of the Dead, Mexican food which is World Heritage, and artists like Frida Kahlo and Diego Rivera."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Tiene experiencia en su campo?",
+        "english": "Do you have experience in your field?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sí, tengo doce años de experiencia como ingeniero industrial. He trabajado en optimización de procesos de manufactura y gestión de calidad. Tengo certificación Six Sigma y experiencia en lean manufacturing.",
+        "english": "Yes, I have twelve years of experience as an industrial engineer. I have worked in manufacturing process optimization and quality management. I have Six Sigma certification and experience in lean manufacturing."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Dónde planea vivir en México?",
+        "english": "Where do you plan to live in Mexico?"
+      },
+      "sampleAnswer": {
+        "spanish": "Planeo vivir en Querétaro inicialmente porque allí está la planta donde voy a trabajar. Me gusta que es una ciudad segura, con buena calidad de vida y cerca de la Ciudad de México.",
+        "english": "I plan to live in Querétaro initially because that's where the plant I'll be working at is located. I like that it's a safe city with good quality of life and close to Mexico City."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Habla español?",
+        "english": "Do you speak Spanish?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sí, hablo español con fluidez. Estudié en una escuela bilingüe y he trabajado con equipos latinoamericanos. Estoy familiarizado con expresiones mexicanas y me encanta el acento.",
+        "english": "Yes, I speak Spanish fluently. I studied at a bilingual school and have worked with Latin American teams. I am familiar with Mexican expressions and I love the accent."
+      }
+    }
+  ],
+  "readingArticle": {
+    "title": {
+      "spanish": "México Facilita Trámites Migratorios para Profesionales Extranjeros",
+      "english": "Mexico Facilitates Immigration Procedures for Foreign Professionals"
+    },
+    "content": [
+      {
+        "spanish": "El Instituto Nacional de Migración (INM) ha implementado un nuevo sistema digital para agilizar trámites.",
+        "english": "The National Migration Institute (INM) has implemented a new digital system to streamline procedures."
+      },
+      {
+        "spanish": "Ahora los profesionales extranjeros pueden solicitar residencia temporal y permanente en línea.",
+        "english": "Now foreign professionals can apply for temporary and permanent residence online."
+      },
+      {
+        "spanish": "Según el comisionado del INM, Francisco Garduño, la meta es reducir tiempos de espera.",
+        "english": "According to INM Commissioner Francisco Garduño, the goal is to reduce waiting times."
+      },
+      {
+        "spanish": "El nuevo sistema permite subir documentos digitalmente y hacer seguimiento en tiempo real.",
+        "english": "The new system allows you to upload documents digitally and track in real time."
+      },
+      {
+        "spanish": "Los sectores prioritarios incluyen tecnología, manufactura avanzada y energías renovables.",
+        "english": "Priority sectors include technology, advanced manufacturing and renewable energy."
+      },
+      {
+        "spanish": "También se simplificaron los requisitos para profesionales con ofertas de trabajo en México.",
+        "english": "Requirements were also simplified for professionals with job offers in Mexico."
+      },
+      {
+        "spanish": "El proceso que antes tomaba tres meses ahora se completa en 45 días hábiles.",
+        "english": "The process that previously took three months is now completed in 45 business days."
+      },
+      {
+        "spanish": "Se espera procesar más de 50,000 solicitudes este año con el nuevo sistema.",
+        "english": "More than 50,000 applications are expected to be processed this year with the new system."
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "spanish": "¿Qué implementó el INM?",
+          "english": "What did the INM implement?"
+        },
+        "answer": {
+          "spanish": "Implementó un nuevo sistema digital para solicitar residencia en línea.",
+          "english": "It implemented a new digital system to apply for residence online."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuánto tiempo toma el proceso ahora?",
+          "english": "How long does the process take now?"
+        },
+        "answer": {
+          "spanish": "El proceso ahora se completa en 45 días hábiles.",
+          "english": "The process is now completed in 45 business days."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuáles son los sectores prioritarios?",
+          "english": "What are the priority sectors?"
+        },
+        "answer": {
+          "spanish": "Los sectores prioritarios incluyen tecnología, manufactura avanzada y energías renovables.",
+          "english": "Priority sectors include technology, advanced manufacturing and renewable energy."
+        }
+      }
+    ]
+  }
+}

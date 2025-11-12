@@ -1,0 +1,688 @@
+{
+  "civicsQuiz": [
+    {
+      "question": {
+        "spanish": "¿Cuándo celebra Ecuador su Día de la Independencia?",
+        "english": "When does Ecuador celebrate its Independence Day?"
+      },
+      "options": [
+        {
+          "spanish": "10 de agosto",
+          "english": "August 10th"
+        },
+        {
+          "spanish": "24 de mayo",
+          "english": "May 24th"
+        },
+        {
+          "spanish": "9 de octubre",
+          "english": "October 9th"
+        },
+        {
+          "spanish": "Todas las anteriores son fechas importantes",
+          "english": "All of the above are important dates"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Todas las anteriores son fechas importantes",
+        "english": "All of the above are important dates"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la capital de Ecuador?",
+        "english": "What is the capital of Ecuador?"
+      },
+      "options": [
+        {
+          "spanish": "Quito",
+          "english": "Quito"
+        },
+        {
+          "spanish": "Guayaquil",
+          "english": "Guayaquil"
+        },
+        {
+          "spanish": "Cuenca",
+          "english": "Cuenca"
+        },
+        {
+          "spanish": "Ambato",
+          "english": "Ambato"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Quito",
+        "english": "Quito"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántas provincias tiene Ecuador?",
+        "english": "How many provinces does Ecuador have?"
+      },
+      "options": [
+        {
+          "spanish": "24 provincias",
+          "english": "24 provinces"
+        },
+        {
+          "spanish": "20 provincias",
+          "english": "20 provinces"
+        },
+        {
+          "spanish": "30 provincias",
+          "english": "30 provinces"
+        },
+        {
+          "spanish": "15 provincias",
+          "english": "15 provinces"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "24 provincias",
+        "english": "24 provinces"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué archipiélago famoso pertenece a Ecuador?",
+        "english": "What famous archipelago belongs to Ecuador?"
+      },
+      "options": [
+        {
+          "spanish": "Las Islas Galápagos",
+          "english": "The Galápagos Islands"
+        },
+        {
+          "spanish": "Las Islas Malvinas",
+          "english": "The Falkland Islands"
+        },
+        {
+          "spanish": "Las Islas Canarias",
+          "english": "The Canary Islands"
+        },
+        {
+          "spanish": "Las Islas del Caribe",
+          "english": "The Caribbean Islands"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Las Islas Galápagos",
+        "english": "The Galápagos Islands"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la moneda oficial de Ecuador?",
+        "english": "What is the official currency of Ecuador?"
+      },
+      "options": [
+        {
+          "spanish": "Dólar estadounidense",
+          "english": "US Dollar"
+        },
+        {
+          "spanish": "Peso ecuatoriano",
+          "english": "Ecuadorian Peso"
+        },
+        {
+          "spanish": "Sucre",
+          "english": "Sucre"
+        },
+        {
+          "spanish": "Sol",
+          "english": "Sol"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Dólar estadounidense",
+        "english": "US Dollar"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuáles son los tres poderes del Estado ecuatoriano?",
+        "english": "What are the three branches of the Ecuadorian State?"
+      },
+      "options": [
+        {
+          "spanish": "Ejecutivo, Legislativo y Judicial",
+          "english": "Executive, Legislative and Judicial"
+        },
+        {
+          "spanish": "Presidente, Asamblea y Corte",
+          "english": "President, Assembly and Court"
+        },
+        {
+          "spanish": "Nacional, Provincial y Municipal",
+          "english": "National, Provincial and Municipal"
+        },
+        {
+          "spanish": "Federal, Regional y Local",
+          "english": "Federal, Regional and Local"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ejecutivo, Legislativo y Judicial",
+        "english": "Executive, Legislative and Judicial"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Quién fue Antonio José de Sucre?",
+        "english": "Who was Antonio José de Sucre?"
+      },
+      "options": [
+        {
+          "spanish": "El Gran Mariscal de Ayacucho y héroe de la independencia",
+          "english": "The Grand Marshal of Ayacucho and independence hero"
+        },
+        {
+          "spanish": "El primer presidente de Ecuador",
+          "english": "The first president of Ecuador"
+        },
+        {
+          "spanish": "Un escritor ecuatoriano",
+          "english": "An Ecuadorian writer"
+        },
+        {
+          "spanish": "Un conquistador español",
+          "english": "A Spanish conquistador"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El Gran Mariscal de Ayacucho y héroe de la independencia",
+        "english": "The Grand Marshal of Ayacucho and independence hero"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué colores tiene la bandera de Ecuador?",
+        "english": "What colors does the Ecuadorian flag have?"
+      },
+      "options": [
+        {
+          "spanish": "Amarillo, azul y rojo con el escudo nacional",
+          "english": "Yellow, blue and red with the national coat of arms"
+        },
+        {
+          "spanish": "Verde, blanco y rojo",
+          "english": "Green, white and red"
+        },
+        {
+          "spanish": "Azul y blanco",
+          "english": "Blue and white"
+        },
+        {
+          "spanish": "Rojo y amarillo",
+          "english": "Red and yellow"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Amarillo, azul y rojo con el escudo nacional",
+        "english": "Yellow, blue and red with the national coat of arms"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se promulgó la actual Constitución de Ecuador?",
+        "english": "In what year was the current Constitution of Ecuador promulgated?"
+      },
+      "options": [
+        {
+          "spanish": "2008",
+          "english": "2008"
+        },
+        {
+          "spanish": "1998",
+          "english": "1998"
+        },
+        {
+          "spanish": "1979",
+          "english": "1979"
+        },
+        {
+          "spanish": "2015",
+          "english": "2015"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "2008",
+        "english": "2008"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el período presidencial en Ecuador?",
+        "english": "What is the presidential term in Ecuador?"
+      },
+      "options": [
+        {
+          "spanish": "4 años con posibilidad de reelección",
+          "english": "4 years with possibility of reelection"
+        },
+        {
+          "spanish": "6 años sin reelección",
+          "english": "6 years without reelection"
+        },
+        {
+          "spanish": "5 años",
+          "english": "5 years"
+        },
+        {
+          "spanish": "3 años",
+          "english": "3 years"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "4 años con posibilidad de reelección",
+        "english": "4 years with possibility of reelection"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué océano baña las costas de Ecuador?",
+        "english": "What ocean borders the coasts of Ecuador?"
+      },
+      "options": [
+        {
+          "spanish": "Océano Pacífico",
+          "english": "Pacific Ocean"
+        },
+        {
+          "spanish": "Océano Atlántico",
+          "english": "Atlantic Ocean"
+        },
+        {
+          "spanish": "Mar Caribe",
+          "english": "Caribbean Sea"
+        },
+        {
+          "spanish": "Océano Índico",
+          "english": "Indian Ocean"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Océano Pacífico",
+        "english": "Pacific Ocean"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo se llama la Asamblea legislativa de Ecuador?",
+        "english": "What is the name of Ecuador's legislative assembly?"
+      },
+      "options": [
+        {
+          "spanish": "Asamblea Nacional",
+          "english": "National Assembly"
+        },
+        {
+          "spanish": "Congreso de la República",
+          "english": "Congress of the Republic"
+        },
+        {
+          "spanish": "Senado",
+          "english": "Senate"
+        },
+        {
+          "spanish": "Parlamento",
+          "english": "Parliament"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Asamblea Nacional",
+        "english": "National Assembly"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué países limitan con Ecuador?",
+        "english": "What countries border Ecuador?"
+      },
+      "options": [
+        {
+          "spanish": "Colombia y Perú",
+          "english": "Colombia and Peru"
+        },
+        {
+          "spanish": "Colombia, Perú y Brasil",
+          "english": "Colombia, Peru and Brazil"
+        },
+        {
+          "spanish": "Solo Colombia",
+          "english": "Only Colombia"
+        },
+        {
+          "spanish": "Venezuela y Colombia",
+          "english": "Venezuela and Colombia"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Colombia y Perú",
+        "english": "Colombia and Peru"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el himno nacional de Ecuador?",
+        "english": "What is the national anthem of Ecuador?"
+      },
+      "options": [
+        {
+          "spanish": "Salve, Oh Patria",
+          "english": "Hail, Oh Fatherland"
+        },
+        {
+          "spanish": "Ecuador Querido",
+          "english": "Beloved Ecuador"
+        },
+        {
+          "spanish": "La Marsellesa",
+          "english": "La Marseillaise"
+        },
+        {
+          "spanish": "Canto a la Patria",
+          "english": "Song to the Fatherland"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Salve, Oh Patria",
+        "english": "Hail, Oh Fatherland"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la cordillera que atraviesa Ecuador?",
+        "english": "What mountain range crosses Ecuador?"
+      },
+      "options": [
+        {
+          "spanish": "Cordillera de los Andes",
+          "english": "Andes Mountain Range"
+        },
+        {
+          "spanish": "Sierra Madre",
+          "english": "Sierra Madre"
+        },
+        {
+          "spanish": "Montañas Rocosas",
+          "english": "Rocky Mountains"
+        },
+        {
+          "spanish": "Cordillera de la Costa",
+          "english": "Coastal Mountain Range"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Cordillera de los Andes",
+        "english": "Andes Mountain Range"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué volcán activo es uno de los más altos de Ecuador?",
+        "english": "What active volcano is one of the highest in Ecuador?"
+      },
+      "options": [
+        {
+          "spanish": "Cotopaxi",
+          "english": "Cotopaxi"
+        },
+        {
+          "spanish": "Chimborazo",
+          "english": "Chimborazo"
+        },
+        {
+          "spanish": "Tungurahua",
+          "english": "Tungurahua"
+        },
+        {
+          "spanish": "Pichincha",
+          "english": "Pichincha"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Cotopaxi",
+        "english": "Cotopaxi"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué línea imaginaria atraviesa Ecuador?",
+        "english": "What imaginary line crosses Ecuador?"
+      },
+      "options": [
+        {
+          "spanish": "La línea ecuatorial (Ecuador)",
+          "english": "The equatorial line (Equator)"
+        },
+        {
+          "spanish": "El Trópico de Cáncer",
+          "english": "The Tropic of Cancer"
+        },
+        {
+          "spanish": "El Trópico de Capricornio",
+          "english": "The Tropic of Capricorn"
+        },
+        {
+          "spanish": "El Meridiano de Greenwich",
+          "english": "The Greenwich Meridian"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "La línea ecuatorial (Ecuador)",
+        "english": "The equatorial line (Equator)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la ciudad más poblada de Ecuador?",
+        "english": "What is the most populated city in Ecuador?"
+      },
+      "options": [
+        {
+          "spanish": "Guayaquil",
+          "english": "Guayaquil"
+        },
+        {
+          "spanish": "Quito",
+          "english": "Quito"
+        },
+        {
+          "spanish": "Cuenca",
+          "english": "Cuenca"
+        },
+        {
+          "spanish": "Ambato",
+          "english": "Ambato"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Guayaquil",
+        "english": "Guayaquil"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año Ecuador adoptó el dólar estadounidense como moneda oficial?",
+        "english": "In what year did Ecuador adopt the US dollar as its official currency?"
+      },
+      "options": [
+        {
+          "spanish": "2000",
+          "english": "2000"
+        },
+        {
+          "spanish": "1990",
+          "english": "1990"
+        },
+        {
+          "spanish": "2008",
+          "english": "2008"
+        },
+        {
+          "spanish": "1995",
+          "english": "1995"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "2000",
+        "english": "2000"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la flor nacional de Ecuador?",
+        "english": "What is the national flower of Ecuador?"
+      },
+      "options": [
+        {
+          "spanish": "La orquídea",
+          "english": "The orchid"
+        },
+        {
+          "spanish": "La rosa",
+          "english": "The rose"
+        },
+        {
+          "spanish": "El girasol",
+          "english": "The sunflower"
+        },
+        {
+          "spanish": "La margarita",
+          "english": "The daisy"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "La orquídea",
+        "english": "The orchid"
+      }
+    }
+  ],
+  "interviewQuestions": [
+    {
+      "question": {
+        "spanish": "¿Por qué desea venir a Ecuador?",
+        "english": "Why do you want to come to Ecuador?"
+      },
+      "sampleAnswer": {
+        "spanish": "Deseo venir a Ecuador por su biodiversidad única, su gente amable y el costo de vida accesible. Me interesa trabajar en proyectos de conservación ambiental y turismo sostenible en las Galápagos.",
+        "english": "I want to come to Ecuador for its unique biodiversity, its friendly people and affordable cost of living. I am interested in working on environmental conservation and sustainable tourism projects in the Galápagos."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué conoce sobre la cultura ecuatoriana?",
+        "english": "What do you know about Ecuadorian culture?"
+      },
+      "sampleAnswer": {
+        "spanish": "Conozco que Ecuador es un país muy diverso con cultura andina, costera y amazónica. Sé sobre el Inti Raymi, los mercados indígenas de Otavalo, y la música tradicional como el pasillo. También me encanta la gastronomía ecuatoriana.",
+        "english": "I know that Ecuador is a very diverse country with Andean, coastal and Amazonian culture. I know about Inti Raymi, the indigenous markets of Otavalo, and traditional music like the pasillo. I also love Ecuadorian cuisine."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es su experiencia profesional?",
+        "english": "What is your professional experience?"
+      },
+      "sampleAnswer": {
+        "spanish": "Soy biólogo marino con diez años de experiencia en conservación de especies. He trabajado en proyectos de protección de tortugas marinas y arrecifes de coral. Tengo publicaciones científicas y experiencia en educación ambiental.",
+        "english": "I am a marine biologist with ten years of experience in species conservation. I have worked on sea turtle and coral reef protection projects. I have scientific publications and experience in environmental education."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo se mantendrá económicamente?",
+        "english": "How will you support yourself financially?"
+      },
+      "sampleAnswer": {
+        "spanish": "Tengo una oferta de trabajo con una ONG internacional que trabaja en las Galápagos. También tengo ahorros para los primeros meses y puedo hacer consultoría para organizaciones ambientales.",
+        "english": "I have a job offer with an international NGO working in the Galápagos. I also have savings for the first few months and can do consulting for environmental organizations."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Habla español?",
+        "english": "Do you speak Spanish?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sí, hablo español con fluidez. He vivido en otros países latinoamericanos y estoy acostumbrado a diferentes acentos. Me gusta el español ecuatoriano por su claridad y estoy aprendiendo expresiones locales.",
+        "english": "Yes, I speak Spanish fluently. I have lived in other Latin American countries and am used to different accents. I like Ecuadorian Spanish for its clarity and I am learning local expressions."
+      }
+    }
+  ],
+  "readingArticle": {
+    "title": {
+      "spanish": "Ecuador Fortalece Programas de Integración para Inmigrantes",
+      "english": "Ecuador Strengthens Integration Programs for Immigrants"
+    },
+    "content": [
+      {
+        "spanish": "El gobierno ecuatoriano ha anunciado la expansión de sus programas de integración para la comunidad inmigrante.",
+        "english": "The Ecuadorian government has announced the expansion of its integration programs for the immigrant community."
+      },
+      {
+        "spanish": "La iniciativa incluye cursos de español, capacitación laboral y orientación sobre derechos y deberes.",
+        "english": "The initiative includes Spanish courses, job training and guidance on rights and duties."
+      },
+      {
+        "spanish": "Según el Ministerio de Relaciones Exteriores, Ecuador busca ser un país más inclusivo.",
+        "english": "According to the Ministry of Foreign Affairs, Ecuador seeks to be a more inclusive country."
+      },
+      {
+        "spanish": "Los programas se implementarán en Quito, Guayaquil, Cuenca y otras ciudades principales.",
+        "english": "The programs will be implemented in Quito, Guayaquil, Cuenca and other major cities."
+      },
+      {
+        "spanish": "Se ofrecerán talleres sobre cultura ecuatoriana, gastronomía y tradiciones locales.",
+        "english": "Workshops will be offered on Ecuadorian culture, gastronomy and local traditions."
+      },
+      {
+        "spanish": "El programa también facilitará el reconocimiento de títulos profesionales extranjeros.",
+        "english": "The program will also facilitate the recognition of foreign professional degrees."
+      },
+      {
+        "spanish": "Se espera que más de 12,000 personas participen en estos programas este año.",
+        "english": "More than 12,000 people are expected to participate in these programs this year."
+      },
+      {
+        "spanish": "Las inscripciones están abiertas a través de centros comunitarios y en línea.",
+        "english": "Registration is open through community centers and online."
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "spanish": "¿Qué incluye la iniciativa del gobierno?",
+          "english": "What does the government initiative include?"
+        },
+        "answer": {
+          "spanish": "Incluye cursos de español, capacitación laboral y orientación sobre derechos y deberes.",
+          "english": "It includes Spanish courses, job training and guidance on rights and duties."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿En qué ciudades se implementarán los programas?",
+          "english": "In which cities will the programs be implemented?"
+        },
+        "answer": {
+          "spanish": "Se implementarán en Quito, Guayaquil, Cuenca y otras ciudades principales.",
+          "english": "They will be implemented in Quito, Guayaquil, Cuenca and other major cities."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuántas personas se espera que participen?",
+          "english": "How many people are expected to participate?"
+        },
+        "answer": {
+          "spanish": "Se espera que más de 12,000 personas participen este año.",
+          "english": "More than 12,000 people are expected to participate this year."
+        }
+      }
+    ]
+  }
+}

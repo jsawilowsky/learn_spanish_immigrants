@@ -1,0 +1,688 @@
+{
+  "civicsQuiz": [
+    {
+      "question": {
+        "spanish": "¿Cuándo celebra Argentina su Día de la Independencia?",
+        "english": "When does Argentina celebrate its Independence Day?"
+      },
+      "options": [
+        {
+          "spanish": "9 de julio",
+          "english": "July 9th"
+        },
+        {
+          "spanish": "25 de mayo",
+          "english": "May 25th"
+        },
+        {
+          "spanish": "20 de junio",
+          "english": "June 20th"
+        },
+        {
+          "spanish": "12 de octubre",
+          "english": "October 12th"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "9 de julio",
+        "english": "July 9th"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la capital de Argentina?",
+        "english": "What is the capital of Argentina?"
+      },
+      "options": [
+        {
+          "spanish": "Buenos Aires",
+          "english": "Buenos Aires"
+        },
+        {
+          "spanish": "Córdoba",
+          "english": "Córdoba"
+        },
+        {
+          "spanish": "Rosario",
+          "english": "Rosario"
+        },
+        {
+          "spanish": "Mendoza",
+          "english": "Mendoza"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Buenos Aires",
+        "english": "Buenos Aires"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántas provincias tiene Argentina?",
+        "english": "How many provinces does Argentina have?"
+      },
+      "options": [
+        {
+          "spanish": "23 provincias y una ciudad autónoma",
+          "english": "23 provinces and one autonomous city"
+        },
+        {
+          "spanish": "20 provincias",
+          "english": "20 provinces"
+        },
+        {
+          "spanish": "30 provincias",
+          "english": "30 provinces"
+        },
+        {
+          "spanish": "15 provincias",
+          "english": "15 provinces"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "23 provincias y una ciudad autónoma",
+        "english": "23 provinces and one autonomous city"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué baile es el símbolo cultural más famoso de Argentina?",
+        "english": "What dance is Argentina's most famous cultural symbol?"
+      },
+      "options": [
+        {
+          "spanish": "El tango",
+          "english": "The tango"
+        },
+        {
+          "spanish": "La chacarera",
+          "english": "The chacarera"
+        },
+        {
+          "spanish": "La zamba",
+          "english": "The zamba"
+        },
+        {
+          "spanish": "El malambo",
+          "english": "The malambo"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El tango",
+        "english": "The tango"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuáles son los tres poderes del gobierno argentino?",
+        "english": "What are the three branches of the Argentine government?"
+      },
+      "options": [
+        {
+          "spanish": "Ejecutivo, Legislativo y Judicial",
+          "english": "Executive, Legislative and Judicial"
+        },
+        {
+          "spanish": "Presidente, Senado y Corte",
+          "english": "President, Senate and Court"
+        },
+        {
+          "spanish": "Federal, Provincial y Municipal",
+          "english": "Federal, Provincial and Municipal"
+        },
+        {
+          "spanish": "Nacional, Regional y Local",
+          "english": "National, Regional and Local"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ejecutivo, Legislativo y Judicial",
+        "english": "Executive, Legislative and Judicial"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Quién fue José de San Martín?",
+        "english": "Who was José de San Martín?"
+      },
+      "options": [
+        {
+          "spanish": "El Libertador de Argentina, Chile y Perú",
+          "english": "The Liberator of Argentina, Chile and Peru"
+        },
+        {
+          "spanish": "El primer presidente argentino",
+          "english": "The first Argentine president"
+        },
+        {
+          "spanish": "Un escritor famoso",
+          "english": "A famous writer"
+        },
+        {
+          "spanish": "Un jugador de fútbol",
+          "english": "A football player"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El Libertador de Argentina, Chile y Perú",
+        "english": "The Liberator of Argentina, Chile and Peru"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la moneda de Argentina?",
+        "english": "What is Argentina's currency?"
+      },
+      "options": [
+        {
+          "spanish": "Peso argentino",
+          "english": "Argentine Peso"
+        },
+        {
+          "spanish": "Dólar",
+          "english": "Dollar"
+        },
+        {
+          "spanish": "Real",
+          "english": "Real"
+        },
+        {
+          "spanish": "Euro",
+          "english": "Euro"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Peso argentino",
+        "english": "Argentine Peso"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué celebra Argentina el 25 de mayo?",
+        "english": "What does Argentina celebrate on May 25th?"
+      },
+      "options": [
+        {
+          "spanish": "La Revolución de Mayo de 1810",
+          "english": "The May Revolution of 1810"
+        },
+        {
+          "spanish": "El Día de la Independencia",
+          "english": "Independence Day"
+        },
+        {
+          "spanish": "El Día del Trabajador",
+          "english": "Labor Day"
+        },
+        {
+          "spanish": "La Navidad",
+          "english": "Christmas"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "La Revolución de Mayo de 1810",
+        "english": "The May Revolution of 1810"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el nombre del presidente argentino elegido democráticamente?",
+        "english": "What is the title of the democratically elected Argentine president?"
+      },
+      "options": [
+        {
+          "spanish": "Presidente de la Nación Argentina",
+          "english": "President of the Argentine Nation"
+        },
+        {
+          "spanish": "Primer Ministro",
+          "english": "Prime Minister"
+        },
+        {
+          "spanish": "Rey de Argentina",
+          "english": "King of Argentina"
+        },
+        {
+          "spanish": "Canciller",
+          "english": "Chancellor"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Presidente de la Nación Argentina",
+        "english": "President of the Argentine Nation"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué colores tiene la bandera argentina?",
+        "english": "What colors does the Argentine flag have?"
+      },
+      "options": [
+        {
+          "spanish": "Celeste, blanco y un sol amarillo",
+          "english": "Light blue, white and a yellow sun"
+        },
+        {
+          "spanish": "Azul, blanco y rojo",
+          "english": "Blue, white and red"
+        },
+        {
+          "spanish": "Verde, blanco y amarillo",
+          "english": "Green, white and yellow"
+        },
+        {
+          "spanish": "Rojo y blanco",
+          "english": "Red and white"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Celeste, blanco y un sol amarillo",
+        "english": "Light blue, white and a yellow sun"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el período presidencial en Argentina?",
+        "english": "What is the presidential term in Argentina?"
+      },
+      "options": [
+        {
+          "spanish": "4 años con posibilidad de una reelección",
+          "english": "4 years with possibility of one reelection"
+        },
+        {
+          "spanish": "6 años sin reelección",
+          "english": "6 years without reelection"
+        },
+        {
+          "spanish": "5 años",
+          "english": "5 years"
+        },
+        {
+          "spanish": "3 años",
+          "english": "3 years"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "4 años con posibilidad de una reelección",
+        "english": "4 years with possibility of one reelection"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el himno nacional de Argentina?",
+        "english": "What is the national anthem of Argentina?"
+      },
+      "options": [
+        {
+          "spanish": "Himno Nacional Argentino (Oíd, mortales, el grito sagrado)",
+          "english": "Argentine National Anthem (Hear, mortals, the sacred cry)"
+        },
+        {
+          "spanish": "La marcha de San Lorenzo",
+          "english": "The March of San Lorenzo"
+        },
+        {
+          "spanish": "Aurora",
+          "english": "Aurora"
+        },
+        {
+          "spanish": "Mi Buenos Aires querido",
+          "english": "My beloved Buenos Aires"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Himno Nacional Argentino (Oíd, mortales, el grito sagrado)",
+        "english": "Argentine National Anthem (Hear, mortals, the sacred cry)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué país NO limita con Argentina?",
+        "english": "Which country does NOT border Argentina?"
+      },
+      "options": [
+        {
+          "spanish": "Venezuela",
+          "english": "Venezuela"
+        },
+        {
+          "spanish": "Chile",
+          "english": "Chile"
+        },
+        {
+          "spanish": "Brasil",
+          "english": "Brazil"
+        },
+        {
+          "spanish": "Uruguay",
+          "english": "Uruguay"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Venezuela",
+        "english": "Venezuela"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántas cámaras tiene el Congreso Nacional Argentino?",
+        "english": "How many chambers does the Argentine National Congress have?"
+      },
+      "options": [
+        {
+          "spanish": "Dos: Cámara de Diputados y Senado",
+          "english": "Two: Chamber of Deputies and Senate"
+        },
+        {
+          "spanish": "Una sola cámara",
+          "english": "Only one chamber"
+        },
+        {
+          "spanish": "Tres cámaras",
+          "english": "Three chambers"
+        },
+        {
+          "spanish": "Cuatro cámaras",
+          "english": "Four chambers"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Dos: Cámara de Diputados y Senado",
+        "english": "Two: Chamber of Deputies and Senate"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se declaró la independencia de Argentina?",
+        "english": "In what year was Argentina's independence declared?"
+      },
+      "options": [
+        {
+          "spanish": "1816",
+          "english": "1816"
+        },
+        {
+          "spanish": "1810",
+          "english": "1810"
+        },
+        {
+          "spanish": "1825",
+          "english": "1825"
+        },
+        {
+          "spanish": "1776",
+          "english": "1776"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1816",
+        "english": "1816"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la bebida tradicional argentina?",
+        "english": "What is the traditional Argentine drink?"
+      },
+      "options": [
+        {
+          "spanish": "Mate",
+          "english": "Mate"
+        },
+        {
+          "spanish": "Café",
+          "english": "Coffee"
+        },
+        {
+          "spanish": "Té",
+          "english": "Tea"
+        },
+        {
+          "spanish": "Chicha",
+          "english": "Chicha"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Mate",
+        "english": "Mate"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué escritor argentino es famoso por sus cuentos de ficción?",
+        "english": "Which Argentine writer is famous for his fiction stories?"
+      },
+      "options": [
+        {
+          "spanish": "Jorge Luis Borges",
+          "english": "Jorge Luis Borges"
+        },
+        {
+          "spanish": "Gabriel García Márquez",
+          "english": "Gabriel García Márquez"
+        },
+        {
+          "spanish": "Pablo Neruda",
+          "english": "Pablo Neruda"
+        },
+        {
+          "spanish": "Octavio Paz",
+          "english": "Octavio Paz"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Jorge Luis Borges",
+        "english": "Jorge Luis Borges"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el glaciar más famoso de Argentina?",
+        "english": "What is the most famous glacier in Argentina?"
+      },
+      "options": [
+        {
+          "spanish": "Glaciar Perito Moreno",
+          "english": "Perito Moreno Glacier"
+        },
+        {
+          "spanish": "Glaciar Upsala",
+          "english": "Upsala Glacier"
+        },
+        {
+          "spanish": "Glaciar Viedma",
+          "english": "Viedma Glacier"
+        },
+        {
+          "spanish": "Glaciar Grey",
+          "english": "Grey Glacier"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Glaciar Perito Moreno",
+        "english": "Perito Moreno Glacier"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué deporte es el más popular en Argentina?",
+        "english": "What sport is the most popular in Argentina?"
+      },
+      "options": [
+        {
+          "spanish": "Fútbol",
+          "english": "Football (Soccer)"
+        },
+        {
+          "spanish": "Básquetbol",
+          "english": "Basketball"
+        },
+        {
+          "spanish": "Rugby",
+          "english": "Rugby"
+        },
+        {
+          "spanish": "Polo",
+          "english": "Polo"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Fútbol",
+        "english": "Football (Soccer)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la región patagónica argentina conocida por su belleza natural?",
+        "english": "What is the Argentine Patagonian region known for its natural beauty?"
+      },
+      "options": [
+        {
+          "spanish": "La Patagonia",
+          "english": "Patagonia"
+        },
+        {
+          "spanish": "La Pampa",
+          "english": "The Pampa"
+        },
+        {
+          "spanish": "El Chaco",
+          "english": "El Chaco"
+        },
+        {
+          "spanish": "Cuyo",
+          "english": "Cuyo"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "La Patagonia",
+        "english": "Patagonia"
+      }
+    }
+  ],
+  "interviewQuestions": [
+    {
+      "question": {
+        "spanish": "¿Por qué querés venir a Argentina?",
+        "english": "Why do you want to come to Argentina?"
+      },
+      "sampleAnswer": {
+        "spanish": "Quiero venir a Argentina porque es un país con una cultura rica, buenas oportunidades educativas y un ambiente multicultural. Me interesa estudiar en la Universidad de Buenos Aires y trabajar en el sector tecnológico.",
+        "english": "I want to come to Argentina because it is a country with a rich culture, good educational opportunities and a multicultural environment. I am interested in studying at the University of Buenos Aires and working in the technology sector."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué sabés sobre la cultura argentina?",
+        "english": "What do you know about Argentine culture?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sé que Argentina es famosa por el tango, el fútbol y la literatura. Conozco escritores como Jorge Luis Borges y Julio Cortázar. También sé que el asado es una tradición importante y que los argentinos son muy apasionados.",
+        "english": "I know that Argentina is famous for tango, football and literature. I know writers like Jorge Luis Borges and Julio Cortázar. I also know that asado is an important tradition and that Argentines are very passionate."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Tenés experiencia laboral?",
+        "english": "Do you have work experience?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sí, trabajé cinco años como desarrollador de software en mi país. Tengo experiencia con Python, JavaScript y bases de datos. Estoy buscando oportunidades en empresas tecnológicas en Buenos Aires.",
+        "english": "Yes, I worked five years as a software developer in my country. I have experience with Python, JavaScript and databases. I am looking for opportunities at technology companies in Buenos Aires."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo te vas a mantener económicamente?",
+        "english": "How will you support yourself financially?"
+      },
+      "sampleAnswer": {
+        "spanish": "Tengo ahorros para los primeros meses y ya estoy en contacto con varias empresas que están interesadas en mi perfil. También puedo trabajar de forma remota para clientes internacionales mientras me establezco.",
+        "english": "I have savings for the first few months and I am already in contact with several companies that are interested in my profile. I can also work remotely for international clients while I get established."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Hablás español con fluidez?",
+        "english": "Do you speak Spanish fluently?"
+      },
+      "sampleAnswer": {
+        "spanish": "Hablo español a nivel intermedio-avanzado. Puedo comunicarme en situaciones cotidianas y profesionales, aunque todavía estoy aprendiendo modismos argentinos como el voseo y el lunfardo.",
+        "english": "I speak Spanish at an intermediate-advanced level. I can communicate in everyday and professional situations, although I am still learning Argentine idioms like voseo and lunfardo."
+      }
+    }
+  ],
+  "readingArticle": {
+    "title": {
+      "spanish": "Argentina Simplifica Trámites de Residencia para Profesionales",
+      "english": "Argentina Simplifies Residence Procedures for Professionals"
+    },
+    "content": [
+      {
+        "spanish": "El gobierno argentino anunció la implementación de un nuevo sistema digital para agilizar los trámites de residencia.",
+        "english": "The Argentine government announced the implementation of a new digital system to streamline residence procedures."
+      },
+      {
+        "spanish": "A partir del próximo mes, los profesionales extranjeros podrán solicitar su residencia completamente en línea.",
+        "english": "Starting next month, foreign professionals will be able to apply for their residence completely online."
+      },
+      {
+        "spanish": "La Dirección Nacional de Migraciones implementó esta medida para atraer talento internacional.",
+        "english": "The National Directorate of Migration implemented this measure to attract international talent."
+      },
+      {
+        "spanish": "Los sectores más beneficiados son tecnología, salud e ingeniería.",
+        "english": "The sectors most benefited are technology, health and engineering."
+      },
+      {
+        "spanish": "El proceso, que antes tomaba hasta seis meses, ahora se completará en 30 días hábiles.",
+        "english": "The process, which previously took up to six months, will now be completed in 30 business days."
+      },
+      {
+        "spanish": "Los solicitantes deberán presentar sus títulos universitarios apostillados y un certificado de antecedentes penales.",
+        "english": "Applicants must present their apostilled university degrees and a criminal background certificate."
+      },
+      {
+        "spanish": "El costo del trámite se mantiene en 10,000 pesos argentinos.",
+        "english": "The cost of the procedure remains at 10,000 Argentine pesos."
+      },
+      {
+        "spanish": "Las autoridades esperan recibir más de 15,000 solicitudes durante el primer año.",
+        "english": "Authorities expect to receive more than 15,000 applications during the first year."
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "spanish": "¿Qué implementó el gobierno para agilizar los trámites?",
+          "english": "What did the government implement to streamline procedures?"
+        },
+        "answer": {
+          "spanish": "Implementó un nuevo sistema digital para solicitar la residencia en línea.",
+          "english": "It implemented a new digital system to apply for residence online."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuánto tiempo tomará el proceso ahora?",
+          "english": "How long will the process take now?"
+        },
+        "answer": {
+          "spanish": "El proceso se completará en 30 días hábiles.",
+          "english": "The process will be completed in 30 business days."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Qué sectores son los más beneficiados?",
+          "english": "What sectors are most benefited?"
+        },
+        "answer": {
+          "spanish": "Los sectores más beneficiados son tecnología, salud e ingeniería.",
+          "english": "The sectors most benefited are technology, health and engineering."
+        }
+      }
+    ]
+  }
+}

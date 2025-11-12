@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Google TTS</title>
+</head>
+<body>
+    <h1>Test Google Translate TTS</h1>
+    <button onclick="testTTS()">Test: "3 de noviembre"</button>
+    <button onclick="testTTS2()">Test: "tres"</button>
+    <button onclick="testTTS3()">Test: "Hola, ¿cómo estás?"</button>
+    
+    <script>
+        function testTTS() {
+            const text = "3 de noviembre";
+            const audio = new Audio(`https://translate.google.com/translate_tts?ie=UTF-8&tl=es&client=tw-ob&q=${encodeURIComponent(text)}`);
+            audio.play();
+        }
+        
+        function testTTS2() {
+            const text = "tres";
+            const audio = new Audio(`https://translate.google.com/translate_tts?ie=UTF-8&tl=es&client=tw-ob&q=${encodeURIComponent(text)}`);
+            audio.play();
+        }
+        
+        function testTTS3() {
+            const text = "Hola, ¿cómo estás?";
+            const audio = new Audio(`https://translate.google.com/translate_tts?ie=UTF-8&tl=es&client=tw-ob&q=${encodeURIComponent(text)}`);
+            audio.play();
+        }
+    </script>
+</body>
+</html>

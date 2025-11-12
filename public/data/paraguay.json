@@ -1,0 +1,688 @@
+{
+  "civicsQuiz": [
+    {
+      "question": {
+        "spanish": "¿Cuándo celebra Paraguay su Día de la Independencia?",
+        "english": "When does Paraguay celebrate its Independence Day?"
+      },
+      "options": [
+        {
+          "spanish": "14 y 15 de mayo",
+          "english": "May 14th and 15th"
+        },
+        {
+          "spanish": "12 de junio",
+          "english": "June 12th"
+        },
+        {
+          "spanish": "25 de agosto",
+          "english": "August 25th"
+        },
+        {
+          "spanish": "1 de marzo",
+          "english": "March 1st"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "14 y 15 de mayo",
+        "english": "May 14th and 15th"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la capital de Paraguay?",
+        "english": "What is the capital of Paraguay?"
+      },
+      "options": [
+        {
+          "spanish": "Asunción",
+          "english": "Asunción"
+        },
+        {
+          "spanish": "Ciudad del Este",
+          "english": "Ciudad del Este"
+        },
+        {
+          "spanish": "Encarnación",
+          "english": "Encarnación"
+        },
+        {
+          "spanish": "San Lorenzo",
+          "english": "San Lorenzo"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Asunción",
+        "english": "Asunción"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuáles son los dos idiomas oficiales de Paraguay?",
+        "english": "What are the two official languages of Paraguay?"
+      },
+      "options": [
+        {
+          "spanish": "Español y guaraní",
+          "english": "Spanish and Guaraní"
+        },
+        {
+          "spanish": "Español e inglés",
+          "english": "Spanish and English"
+        },
+        {
+          "spanish": "Español y portugués",
+          "english": "Spanish and Portuguese"
+        },
+        {
+          "spanish": "Español y quechua",
+          "english": "Spanish and Quechua"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Español y guaraní",
+        "english": "Spanish and Guaraní"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántos departamentos tiene Paraguay?",
+        "english": "How many departments does Paraguay have?"
+      },
+      "options": [
+        {
+          "spanish": "17 departamentos y una capital",
+          "english": "17 departments and one capital"
+        },
+        {
+          "spanish": "12 departamentos",
+          "english": "12 departments"
+        },
+        {
+          "spanish": "20 departamentos",
+          "english": "20 departments"
+        },
+        {
+          "spanish": "15 departamentos",
+          "english": "15 departments"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "17 departamentos y una capital",
+        "english": "17 departments and one capital"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué tipo de música tradicional es famosa en Paraguay?",
+        "english": "What type of traditional music is famous in Paraguay?"
+      },
+      "options": [
+        {
+          "spanish": "La polca paraguaya y la guarania",
+          "english": "Paraguayan polka and guarania"
+        },
+        {
+          "spanish": "El tango",
+          "english": "Tango"
+        },
+        {
+          "spanish": "La cumbia",
+          "english": "Cumbia"
+        },
+        {
+          "spanish": "El flamenco",
+          "english": "Flamenco"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "La polca paraguaya y la guarania",
+        "english": "Paraguayan polka and guarania"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuáles son los tres poderes del Estado paraguayo?",
+        "english": "What are the three branches of the Paraguayan State?"
+      },
+      "options": [
+        {
+          "spanish": "Ejecutivo, Legislativo y Judicial",
+          "english": "Executive, Legislative and Judicial"
+        },
+        {
+          "spanish": "Presidente, Congreso y Ejército",
+          "english": "President, Congress and Army"
+        },
+        {
+          "spanish": "Nacional, Departamental y Municipal",
+          "english": "National, Departmental and Municipal"
+        },
+        {
+          "spanish": "Federal, Regional y Local",
+          "english": "Federal, Regional and Local"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ejecutivo, Legislativo y Judicial",
+        "english": "Executive, Legislative and Judicial"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la moneda oficial de Paraguay?",
+        "english": "What is the official currency of Paraguay?"
+      },
+      "options": [
+        {
+          "spanish": "Guaraní paraguayo",
+          "english": "Paraguayan Guaraní"
+        },
+        {
+          "spanish": "Peso paraguayo",
+          "english": "Paraguayan Peso"
+        },
+        {
+          "spanish": "Dólar",
+          "english": "Dollar"
+        },
+        {
+          "spanish": "Real",
+          "english": "Real"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Guaraní paraguayo",
+        "english": "Paraguayan Guaraní"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Quién fue José Gaspar Rodríguez de Francia?",
+        "english": "Who was José Gaspar Rodríguez de Francia?"
+      },
+      "options": [
+        {
+          "spanish": "El primer dictador supremo de Paraguay",
+          "english": "The first supreme dictator of Paraguay"
+        },
+        {
+          "spanish": "Un poeta paraguayo",
+          "english": "A Paraguayan poet"
+        },
+        {
+          "spanish": "Un conquistador español",
+          "english": "A Spanish conquistador"
+        },
+        {
+          "spanish": "Un presidente actual",
+          "english": "A current president"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El primer dictador supremo de Paraguay",
+        "english": "The first supreme dictator of Paraguay"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué colores tiene la bandera de Paraguay?",
+        "english": "What colors does the Paraguayan flag have?"
+      },
+      "options": [
+        {
+          "spanish": "Rojo, blanco y azul (única bandera con diferente escudo en cada lado)",
+          "english": "Red, white and blue (only flag with different coat of arms on each side)"
+        },
+        {
+          "spanish": "Verde, blanco y rojo",
+          "english": "Green, white and red"
+        },
+        {
+          "spanish": "Amarillo, azul y rojo",
+          "english": "Yellow, blue and red"
+        },
+        {
+          "spanish": "Solo rojo y blanco",
+          "english": "Only red and white"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Rojo, blanco y azul (única bandera con diferente escudo en cada lado)",
+        "english": "Red, white and blue (only flag with different coat of arms on each side)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se promulgó la actual Constitución de Paraguay?",
+        "english": "In what year was the current Constitution of Paraguay promulgated?"
+      },
+      "options": [
+        {
+          "spanish": "1992",
+          "english": "1992"
+        },
+        {
+          "spanish": "1967",
+          "english": "1967"
+        },
+        {
+          "spanish": "1940",
+          "english": "1940"
+        },
+        {
+          "spanish": "2000",
+          "english": "2000"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1992",
+        "english": "1992"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el período presidencial en Paraguay?",
+        "english": "What is the presidential term in Paraguay?"
+      },
+      "options": [
+        {
+          "spanish": "5 años sin posibilidad de reelección",
+          "english": "5 years without possibility of reelection"
+        },
+        {
+          "spanish": "4 años con reelección",
+          "english": "4 years with reelection"
+        },
+        {
+          "spanish": "6 años sin reelección",
+          "english": "6 years without reelection"
+        },
+        {
+          "spanish": "3 años",
+          "english": "3 years"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "5 años sin posibilidad de reelección",
+        "english": "5 years without possibility of reelection"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué países limitan con Paraguay?",
+        "english": "What countries border Paraguay?"
+      },
+      "options": [
+        {
+          "spanish": "Argentina, Brasil y Bolivia",
+          "english": "Argentina, Brazil and Bolivia"
+        },
+        {
+          "spanish": "Solo Argentina y Brasil",
+          "english": "Only Argentina and Brazil"
+        },
+        {
+          "spanish": "Chile, Argentina y Uruguay",
+          "english": "Chile, Argentina and Uruguay"
+        },
+        {
+          "spanish": "Perú y Bolivia",
+          "english": "Peru and Bolivia"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Argentina, Brasil y Bolivia",
+        "english": "Argentina, Brazil and Bolivia"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántas cámaras tiene el Congreso Nacional de Paraguay?",
+        "english": "How many chambers does the National Congress of Paraguay have?"
+      },
+      "options": [
+        {
+          "spanish": "Dos: Cámara de Diputados y Senado",
+          "english": "Two: Chamber of Deputies and Senate"
+        },
+        {
+          "spanish": "Una sola cámara",
+          "english": "Only one chamber"
+        },
+        {
+          "spanish": "Tres cámaras",
+          "english": "Three chambers"
+        },
+        {
+          "spanish": "Cuatro cámaras",
+          "english": "Four chambers"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Dos: Cámara de Diputados y Senado",
+        "english": "Two: Chamber of Deputies and Senate"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el himno nacional de Paraguay?",
+        "english": "What is the national anthem of Paraguay?"
+      },
+      "options": [
+        {
+          "spanish": "Himno Nacional Paraguayo (Paraguayos, República o Muerte)",
+          "english": "Paraguayan National Anthem (Paraguayans, Republic or Death)"
+        },
+        {
+          "spanish": "La Marsellesa",
+          "english": "La Marseillaise"
+        },
+        {
+          "spanish": "Guarania Nacional",
+          "english": "National Guarania"
+        },
+        {
+          "spanish": "Canto Paraguayo",
+          "english": "Paraguayan Song"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Himno Nacional Paraguayo (Paraguayos, República o Muerte)",
+        "english": "Paraguayan National Anthem (Paraguayans, Republic or Death)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué guerra histórica tuvo un gran impacto en Paraguay?",
+        "english": "What historic war had a great impact on Paraguay?"
+      },
+      "options": [
+        {
+          "spanish": "La Guerra de la Triple Alianza (1864-1870)",
+          "english": "The War of the Triple Alliance (1864-1870)"
+        },
+        {
+          "spanish": "La Guerra de las Malvinas",
+          "english": "The Falklands War"
+        },
+        {
+          "spanish": "La Guerra del Pacífico",
+          "english": "The War of the Pacific"
+        },
+        {
+          "spanish": "La Guerra Civil",
+          "english": "The Civil War"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "La Guerra de la Triple Alianza (1864-1870)",
+        "english": "The War of the Triple Alliance (1864-1870)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué río importante atraviesa Paraguay?",
+        "english": "What important river crosses Paraguay?"
+      },
+      "options": [
+        {
+          "spanish": "Río Paraguay",
+          "english": "Paraguay River"
+        },
+        {
+          "spanish": "Río Amazonas",
+          "english": "Amazon River"
+        },
+        {
+          "spanish": "Río Orinoco",
+          "english": "Orinoco River"
+        },
+        {
+          "spanish": "Río de la Plata",
+          "english": "Río de la Plata"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Río Paraguay",
+        "english": "Paraguay River"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se independizó Paraguay de España?",
+        "english": "In what year did Paraguay gain independence from Spain?"
+      },
+      "options": [
+        {
+          "spanish": "1811",
+          "english": "1811"
+        },
+        {
+          "spanish": "1825",
+          "english": "1825"
+        },
+        {
+          "spanish": "1810",
+          "english": "1810"
+        },
+        {
+          "spanish": "1776",
+          "english": "1776"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1811",
+        "english": "1811"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué característica única tiene Paraguay en América del Sur?",
+        "english": "What unique characteristic does Paraguay have in South America?"
+      },
+      "options": [
+        {
+          "spanish": "Es uno de los dos países sin salida al mar (junto con Bolivia)",
+          "english": "It is one of two landlocked countries (along with Bolivia)"
+        },
+        {
+          "spanish": "Es el país más grande",
+          "english": "It is the largest country"
+        },
+        {
+          "spanish": "Tiene dos océanos",
+          "english": "It has two oceans"
+        },
+        {
+          "spanish": "No tiene frontera con ningún país",
+          "english": "It has no border with any country"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Es uno de los dos países sin salida al mar (junto con Bolivia)",
+        "english": "It is one of two landlocked countries (along with Bolivia)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué artesanía tradicional es famosa en Paraguay?",
+        "english": "What traditional handicraft is famous in Paraguay?"
+      },
+      "options": [
+        {
+          "spanish": "El ñandutí (encaje paraguayo)",
+          "english": "Ñandutí (Paraguayan lace)"
+        },
+        {
+          "spanish": "Los sombreros de Panamá",
+          "english": "Panama hats"
+        },
+        {
+          "spanish": "Las alfombras persas",
+          "english": "Persian carpets"
+        },
+        {
+          "spanish": "La cerámica maya",
+          "english": "Mayan pottery"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El ñandutí (encaje paraguayo)",
+        "english": "Ñandutí (Paraguayan lace)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué bebida tradicional es famosa en Paraguay?",
+        "english": "What traditional drink is famous in Paraguay?"
+      },
+      "options": [
+        {
+          "spanish": "El tereré y el mate",
+          "english": "Tereré and mate"
+        },
+        {
+          "spanish": "El café",
+          "english": "Coffee"
+        },
+        {
+          "spanish": "La chicha",
+          "english": "Chicha"
+        },
+        {
+          "spanish": "El té",
+          "english": "Tea"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El tereré y el mate",
+        "english": "Tereré and mate"
+      }
+    }
+  ],
+  "interviewQuestions": [
+    {
+      "question": {
+        "spanish": "¿Por qué querés venir a Paraguay?",
+        "english": "Why do you want to come to Paraguay?"
+      },
+      "sampleAnswer": {
+        "spanish": "Quiero venir a Paraguay por su gente amable, el bajo costo de vida y las oportunidades en agronegocios. Me interesa trabajar en el sector de exportación de granos y productos agrícolas.",
+        "english": "I want to come to Paraguay for its friendly people, low cost of living and opportunities in agribusiness. I am interested in working in the grain and agricultural product export sector."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué sabés sobre la cultura paraguaya?",
+        "english": "What do you know about Paraguayan culture?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sé que Paraguay es único por ser bilingüe con español y guaraní. Conozco el ñandutí, las artesanías del encaje, y el tereré que es una bebida tradicional. También sé que el arpa paraguaya es muy importante en la música.",
+        "english": "I know that Paraguay is unique for being bilingual with Spanish and Guaraní. I know ñandutí, lace crafts, and tereré which is a traditional drink. I also know that the Paraguayan harp is very important in music."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Tenés experiencia en agricultura?",
+        "english": "Do you have experience in agriculture?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sí, soy agrónomo con quince años de experiencia en cultivo de soja y maíz. He trabajado en gestión de grandes extensiones agrícolas y tengo conocimiento en agricultura de precisión y uso de tecnología en el campo.",
+        "english": "Yes, I am an agronomist with fifteen years of experience in soybean and corn cultivation. I have worked in managing large agricultural areas and have knowledge in precision agriculture and use of technology in the field."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo te vas a mantener?",
+        "english": "How will you support yourself?"
+      },
+      "sampleAnswer": {
+        "spanish": "Tengo una oferta de trabajo con una empresa agroindustrial en el departamento de Alto Paraná. El contrato incluye vivienda y un salario competitivo. También tengo ahorros para los primeros meses.",
+        "english": "I have a job offer with an agro-industrial company in the department of Alto Paraná. The contract includes housing and a competitive salary. I also have savings for the first few months."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Hablás español?",
+        "english": "Do you speak Spanish?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sí, hablo español con fluidez. Estoy aprendiendo algunas palabras en guaraní también porque sé que muchos paraguayos lo usan en la vida diaria. Me gusta el voseo que se usa en Paraguay.",
+        "english": "Yes, I speak Spanish fluently. I am learning some words in Guaraní too because I know that many Paraguayans use it in daily life. I like the voseo that is used in Paraguay."
+      }
+    }
+  ],
+  "readingArticle": {
+    "title": {
+      "spanish": "Paraguay Lanza Programa para Atraer Inversores y Emprendedores",
+      "english": "Paraguay Launches Program to Attract Investors and Entrepreneurs"
+    },
+    "content": [
+      {
+        "spanish": "El gobierno paraguayo ha presentado un nuevo programa para atraer inversores extranjeros y emprendedores.",
+        "english": "The Paraguayan government has presented a new program to attract foreign investors and entrepreneurs."
+      },
+      {
+        "spanish": "La iniciativa ofrece incentivos fiscales y facilidades para establecer negocios en el país.",
+        "english": "The initiative offers tax incentives and facilities to establish businesses in the country."
+      },
+      {
+        "spanish": "Según el Ministerio de Industria y Comercio, Paraguay busca diversificar su economía.",
+        "english": "According to the Ministry of Industry and Commerce, Paraguay seeks to diversify its economy."
+      },
+      {
+        "spanish": "Los sectores priorizados son agroindustria, tecnología, turismo y energías renovables.",
+        "english": "Priority sectors are agro-industry, technology, tourism and renewable energy."
+      },
+      {
+        "spanish": "El programa incluye asesoramiento gratuito para trámites de residencia y apertura de empresas.",
+        "english": "The program includes free advice for residence procedures and opening companies."
+      },
+      {
+        "spanish": "Paraguay ofrece una de las cargas fiscales más bajas de la región.",
+        "english": "Paraguay offers one of the lowest tax burdens in the region."
+      },
+      {
+        "spanish": "Se espera atraer inversiones por más de 500 millones de dólares en dos años.",
+        "english": "Investments of more than 500 million dollars are expected to be attracted in two years."
+      },
+      {
+        "spanish": "Los interesados pueden obtener más información en las oficinas de ProParaguay.",
+        "english": "Those interested can obtain more information at ProParaguay offices."
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "spanish": "¿Qué ofrece el nuevo programa?",
+          "english": "What does the new program offer?"
+        },
+        "answer": {
+          "spanish": "Ofrece incentivos fiscales y facilidades para establecer negocios en el país.",
+          "english": "It offers tax incentives and facilities to establish businesses in the country."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuáles son los sectores priorizados?",
+          "english": "What are the priority sectors?"
+        },
+        "answer": {
+          "spanish": "Los sectores priorizados son agroindustria, tecnología, turismo y energías renovables.",
+          "english": "Priority sectors are agro-industry, technology, tourism and renewable energy."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuánto se espera atraer en inversiones?",
+          "english": "How much is expected to be attracted in investments?"
+        },
+        "answer": {
+          "spanish": "Se espera atraer inversiones por más de 500 millones de dólares en dos años.",
+          "english": "Investments of more than 500 million dollars are expected to be attracted in two years."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,688 @@
+{
+  "civicsQuiz": [
+    {
+      "question": {
+        "spanish": "¿Cuándo celebra Panamá su Día de la Independencia de Colombia?",
+        "english": "When does Panama celebrate its Independence Day from Colombia?"
+      },
+      "options": [
+        {
+          "spanish": "3 de noviembre",
+          "english": "November 3rd"
+        },
+        {
+          "spanish": "28 de noviembre",
+          "english": "November 28th"
+        },
+        {
+          "spanish": "15 de septiembre",
+          "english": "September 15th"
+        },
+        {
+          "spanish": "20 de diciembre",
+          "english": "December 20th"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "3 de noviembre",
+        "english": "November 3rd"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuáles son los tres poderes del gobierno panameño?",
+        "english": "What are the three branches of the Panamanian government?"
+      },
+      "options": [
+        {
+          "spanish": "Ejecutivo, Legislativo y Judicial",
+          "english": "Executive, Legislative and Judicial"
+        },
+        {
+          "spanish": "Presidente, Congreso y Policía",
+          "english": "President, Congress and Police"
+        },
+        {
+          "spanish": "Federal, Estatal y Municipal",
+          "english": "Federal, State and Municipal"
+        },
+        {
+          "spanish": "Civil, Militar y Religioso",
+          "english": "Civil, Military and Religious"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ejecutivo, Legislativo y Judicial",
+        "english": "Executive, Legislative and Judicial"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la capital de Panamá?",
+        "english": "What is the capital of Panama?"
+      },
+      "options": [
+        {
+          "spanish": "Ciudad de Panamá",
+          "english": "Panama City"
+        },
+        {
+          "spanish": "Colón",
+          "english": "Colón"
+        },
+        {
+          "spanish": "David",
+          "english": "David"
+        },
+        {
+          "spanish": "Chitré",
+          "english": "Chitré"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ciudad de Panamá",
+        "english": "Panama City"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántas provincias tiene Panamá?",
+        "english": "How many provinces does Panama have?"
+      },
+      "options": [
+        {
+          "spanish": "10 provincias",
+          "english": "10 provinces"
+        },
+        {
+          "spanish": "7 provincias",
+          "english": "7 provinces"
+        },
+        {
+          "spanish": "15 provincias",
+          "english": "15 provinces"
+        },
+        {
+          "spanish": "5 provincias",
+          "english": "5 provinces"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "10 provincias",
+        "english": "10 provinces"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué símbolo nacional representa el Canal de Panamá?",
+        "english": "What national symbol represents the Panama Canal?"
+      },
+      "options": [
+        {
+          "spanish": "Es una maravilla de ingeniería moderna",
+          "english": "It is a modern engineering marvel"
+        },
+        {
+          "spanish": "Es parte del escudo nacional",
+          "english": "It is part of the national coat of arms"
+        },
+        {
+          "spanish": "Es la bandera nacional",
+          "english": "It is the national flag"
+        },
+        {
+          "spanish": "Es el himno nacional",
+          "english": "It is the national anthem"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Es una maravilla de ingeniería moderna",
+        "english": "It is a modern engineering marvel"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la moneda oficial de Panamá?",
+        "english": "What is the official currency of Panama?"
+      },
+      "options": [
+        {
+          "spanish": "Balboa y Dólar estadounidense",
+          "english": "Balboa and US Dollar"
+        },
+        {
+          "spanish": "Solo el Balboa",
+          "english": "Only the Balboa"
+        },
+        {
+          "spanish": "Peso panameño",
+          "english": "Panamanian Peso"
+        },
+        {
+          "spanish": "Euro",
+          "english": "Euro"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Balboa y Dólar estadounidense",
+        "english": "Balboa and US Dollar"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué colores tiene la bandera de Panamá?",
+        "english": "What colors does the Panamanian flag have?"
+      },
+      "options": [
+        {
+          "spanish": "Rojo, blanco y azul con estrellas",
+          "english": "Red, white and blue with stars"
+        },
+        {
+          "spanish": "Verde, blanco y rojo",
+          "english": "Green, white and red"
+        },
+        {
+          "spanish": "Amarillo, azul y rojo",
+          "english": "Yellow, blue and red"
+        },
+        {
+          "spanish": "Solo rojo y blanco",
+          "english": "Only red and white"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Rojo, blanco y azul con estrellas",
+        "english": "Red, white and blue with stars"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se promulgó la actual Constitución de Panamá?",
+        "english": "In what year was the current Constitution of Panama promulgated?"
+      },
+      "options": [
+        {
+          "spanish": "1972 (reformada en 1983 y 1994)",
+          "english": "1972 (reformed in 1983 and 1994)"
+        },
+        {
+          "spanish": "1903",
+          "english": "1903"
+        },
+        {
+          "spanish": "2000",
+          "english": "2000"
+        },
+        {
+          "spanish": "1946",
+          "english": "1946"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1972 (reformada en 1983 y 1994)",
+        "english": "1972 (reformed in 1983 and 1994)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el período presidencial en Panamá?",
+        "english": "What is the presidential term in Panama?"
+      },
+      "options": [
+        {
+          "spanish": "5 años sin reelección inmediata",
+          "english": "5 years without immediate reelection"
+        },
+        {
+          "spanish": "4 años con reelección",
+          "english": "4 years with reelection"
+        },
+        {
+          "spanish": "6 años sin reelección",
+          "english": "6 years without reelection"
+        },
+        {
+          "spanish": "3 años",
+          "english": "3 years"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "5 años sin reelección inmediata",
+        "english": "5 years without immediate reelection"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué océanos conecta el Canal de Panamá?",
+        "english": "What oceans does the Panama Canal connect?"
+      },
+      "options": [
+        {
+          "spanish": "Océano Pacífico y Océano Atlántico",
+          "english": "Pacific Ocean and Atlantic Ocean"
+        },
+        {
+          "spanish": "Solo el Océano Pacífico",
+          "english": "Only the Pacific Ocean"
+        },
+        {
+          "spanish": "Océano Índico y Pacífico",
+          "english": "Indian Ocean and Pacific"
+        },
+        {
+          "spanish": "Mar Caribe y Mar Mediterráneo",
+          "english": "Caribbean Sea and Mediterranean Sea"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Océano Pacífico y Océano Atlántico",
+        "english": "Pacific Ocean and Atlantic Ocean"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo se llama la Asamblea legislativa de Panamá?",
+        "english": "What is the name of Panama's legislative assembly?"
+      },
+      "options": [
+        {
+          "spanish": "Asamblea Nacional",
+          "english": "National Assembly"
+        },
+        {
+          "spanish": "Congreso de la República",
+          "english": "Congress of the Republic"
+        },
+        {
+          "spanish": "Senado",
+          "english": "Senate"
+        },
+        {
+          "spanish": "Parlamento",
+          "english": "Parliament"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Asamblea Nacional",
+        "english": "National Assembly"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué países limitan con Panamá?",
+        "english": "What countries border Panama?"
+      },
+      "options": [
+        {
+          "spanish": "Costa Rica y Colombia",
+          "english": "Costa Rica and Colombia"
+        },
+        {
+          "spanish": "Nicaragua y Colombia",
+          "english": "Nicaragua and Colombia"
+        },
+        {
+          "spanish": "Solo Costa Rica",
+          "english": "Only Costa Rica"
+        },
+        {
+          "spanish": "Venezuela y Ecuador",
+          "english": "Venezuela and Ecuador"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Costa Rica y Colombia",
+        "english": "Costa Rica and Colombia"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año Panamá tomó control total del Canal de Panamá?",
+        "english": "In what year did Panama take full control of the Panama Canal?"
+      },
+      "options": [
+        {
+          "spanish": "1999",
+          "english": "1999"
+        },
+        {
+          "spanish": "1977",
+          "english": "1977"
+        },
+        {
+          "spanish": "1903",
+          "english": "1903"
+        },
+        {
+          "spanish": "2010",
+          "english": "2010"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1999",
+        "english": "1999"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el himno nacional de Panamá?",
+        "english": "What is the national anthem of Panama?"
+      },
+      "options": [
+        {
+          "spanish": "Himno Istmeño (Alcanzamos por fin la victoria)",
+          "english": "Isthmus Anthem (We finally reached victory)"
+        },
+        {
+          "spanish": "Panamá Libre",
+          "english": "Free Panama"
+        },
+        {
+          "spanish": "Canto al Canal",
+          "english": "Song to the Canal"
+        },
+        {
+          "spanish": "La Marsellesa",
+          "english": "La Marseillaise"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Himno Istmeño (Alcanzamos por fin la victoria)",
+        "english": "Isthmus Anthem (We finally reached victory)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la característica única del sistema de defensa de Panamá?",
+        "english": "What is the unique characteristic of Panama's defense system?"
+      },
+      "options": [
+        {
+          "spanish": "Panamá no tiene ejército desde 1990",
+          "english": "Panama has no army since 1990"
+        },
+        {
+          "spanish": "Tiene el ejército más grande de Centroamérica",
+          "english": "It has the largest army in Central America"
+        },
+        {
+          "spanish": "Depende completamente de Estados Unidos",
+          "english": "It depends completely on the United States"
+        },
+        {
+          "spanish": "Tiene servicio militar obligatorio",
+          "english": "It has mandatory military service"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Panamá no tiene ejército desde 1990",
+        "english": "Panama has no army since 1990"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué baile tradicional es típico de Panamá?",
+        "english": "What traditional dance is typical of Panama?"
+      },
+      "options": [
+        {
+          "spanish": "La tamborito",
+          "english": "The tamborito"
+        },
+        {
+          "spanish": "El tango",
+          "english": "The tango"
+        },
+        {
+          "spanish": "La cumbia colombiana",
+          "english": "Colombian cumbia"
+        },
+        {
+          "spanish": "El vals",
+          "english": "The waltz"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "La tamborito",
+        "english": "The tamborito"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se inauguró el Canal de Panamá?",
+        "english": "In what year was the Panama Canal inaugurated?"
+      },
+      "options": [
+        {
+          "spanish": "1914",
+          "english": "1914"
+        },
+        {
+          "spanish": "1903",
+          "english": "1903"
+        },
+        {
+          "spanish": "1950",
+          "english": "1950"
+        },
+        {
+          "spanish": "1999",
+          "english": "1999"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1914",
+        "english": "1914"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el ave nacional de Panamá?",
+        "english": "What is the national bird of Panama?"
+      },
+      "options": [
+        {
+          "spanish": "El águila harpía",
+          "english": "The harpy eagle"
+        },
+        {
+          "spanish": "El quetzal",
+          "english": "The quetzal"
+        },
+        {
+          "spanish": "El tucán",
+          "english": "The toucan"
+        },
+        {
+          "spanish": "El cóndor",
+          "english": "The condor"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El águila harpía",
+        "english": "The harpy eagle"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué celebra Panamá el 28 de noviembre?",
+        "english": "What does Panama celebrate on November 28th?"
+      },
+      "options": [
+        {
+          "spanish": "Independencia de España",
+          "english": "Independence from Spain"
+        },
+        {
+          "spanish": "Independencia de Colombia",
+          "english": "Independence from Colombia"
+        },
+        {
+          "spanish": "Día del Canal",
+          "english": "Canal Day"
+        },
+        {
+          "spanish": "Día Nacional",
+          "english": "National Day"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Independencia de España",
+        "english": "Independence from Spain"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la flor nacional de Panamá?",
+        "english": "What is the national flower of Panama?"
+      },
+      "options": [
+        {
+          "spanish": "La flor del Espíritu Santo (orquídea)",
+          "english": "The Holy Spirit flower (orchid)"
+        },
+        {
+          "spanish": "La rosa",
+          "english": "The rose"
+        },
+        {
+          "spanish": "El girasol",
+          "english": "The sunflower"
+        },
+        {
+          "spanish": "La margarita",
+          "english": "The daisy"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "La flor del Espíritu Santo (orquídea)",
+        "english": "The Holy Spirit flower (orchid)"
+      }
+    }
+  ],
+  "interviewQuestions": [
+    {
+      "question": {
+        "spanish": "¿Por qué desea emigrar a Panamá?",
+        "english": "Why do you want to immigrate to Panama?"
+      },
+      "sampleAnswer": {
+        "spanish": "Deseo emigrar a Panamá porque es un país con grandes oportunidades económicas, tiene un sistema de salud excelente, y la gente es muy acogedora. Me interesa trabajar en el sector de servicios financieros y contribuir al desarrollo del país.",
+        "english": "I want to immigrate to Panama because it is a country with great economic opportunities, has an excellent healthcare system, and the people are very welcoming. I am interested in working in the financial services sector and contributing to the country's development."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es su nivel de español?",
+        "english": "What is your level of Spanish?"
+      },
+      "sampleAnswer": {
+        "spanish": "Mi nivel de español es intermedio. Puedo mantener conversaciones cotidianas, leer periódicos y entender noticias. Estoy tomando clases adicionales para mejorar mi fluidez y vocabulario profesional.",
+        "english": "My Spanish level is intermediate. I can maintain everyday conversations, read newspapers and understand news. I am taking additional classes to improve my fluency and professional vocabulary."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Tiene familiares en Panamá?",
+        "english": "Do you have family in Panama?"
+      },
+      "sampleAnswer": {
+        "spanish": "No tengo familiares directos en Panamá, pero tengo varios amigos que viven allí y me han hablado muy bien del país. También he visitado Panamá dos veces como turista.",
+        "english": "I don't have direct family in Panama, but I have several friends who live there and have spoken highly of the country. I have also visited Panama twice as a tourist."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué sabe sobre la cultura panameña?",
+        "english": "What do you know about Panamanian culture?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sé que Panamá tiene una rica herencia cultural que mezcla influencias indígenas, españolas y afrocaribeñas. Conozco el folclore como el tamborito y la pollera. También sé que el país es muy diverso y cosmopolita debido al Canal de Panamá.",
+        "english": "I know that Panama has a rich cultural heritage that mixes indigenous, Spanish and Afro-Caribbean influences. I know folklore like the tamborito and the pollera. I also know that the country is very diverse and cosmopolitan due to the Panama Canal."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo planea mantenerse económicamente en Panamá?",
+        "english": "How do you plan to support yourself financially in Panama?"
+      },
+      "sampleAnswer": {
+        "spanish": "Tengo una oferta de trabajo como analista financiero en una empresa internacional con sede en Ciudad de Panamá. También tengo ahorros suficientes para los primeros seis meses mientras me establezco.",
+        "english": "I have a job offer as a financial analyst at an international company based in Panama City. I also have enough savings for the first six months while I get established."
+      }
+    }
+  ],
+  "readingArticle": {
+    "title": {
+      "spanish": "Panamá Lanza Nuevo Programa de Integración para Inmigrantes",
+      "english": "Panama Launches New Integration Program for Immigrants"
+    },
+    "content": [
+      {
+        "spanish": "El gobierno de Panamá ha anunciado un nuevo programa de integración diseñado para ayudar a los inmigrantes a adaptarse a la vida en el país.",
+        "english": "The government of Panama has announced a new integration program designed to help immigrants adapt to life in the country."
+      },
+      {
+        "spanish": "El programa incluye clases gratuitas de español, talleres sobre cultura panameña y asistencia para encontrar empleo.",
+        "english": "The program includes free Spanish classes, workshops on Panamanian culture, and assistance in finding employment."
+      },
+      {
+        "spanish": "Según la ministra de Gobierno, María Rodríguez, el objetivo es facilitar la integración de los nuevos residentes.",
+        "english": "According to the Minister of Government, María Rodríguez, the goal is to facilitate the integration of new residents."
+      },
+      {
+        "spanish": "Las clases de español se ofrecerán en varios centros comunitarios en Ciudad de Panamá y otras provincias.",
+        "english": "Spanish classes will be offered at several community centers in Panama City and other provinces."
+      },
+      {
+        "spanish": "Los talleres culturales cubrirán temas como la historia de Panamá, tradiciones locales y el sistema legal.",
+        "english": "Cultural workshops will cover topics such as Panama's history, local traditions, and the legal system."
+      },
+      {
+        "spanish": "El programa también conectará a los inmigrantes con empresas que buscan trabajadores calificados.",
+        "english": "The program will also connect immigrants with companies looking for skilled workers."
+      },
+      {
+        "spanish": "Se espera que más de 5,000 personas participen en el programa durante el primer año.",
+        "english": "More than 5,000 people are expected to participate in the program during the first year."
+      },
+      {
+        "spanish": "Los interesados pueden registrarse en línea o visitar las oficinas de migración.",
+        "english": "Those interested can register online or visit immigration offices."
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "spanish": "¿Qué incluye el nuevo programa de integración?",
+          "english": "What does the new integration program include?"
+        },
+        "answer": {
+          "spanish": "Incluye clases gratuitas de español, talleres sobre cultura panameña y asistencia para encontrar empleo.",
+          "english": "It includes free Spanish classes, workshops on Panamanian culture, and assistance in finding employment."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuál es el objetivo del programa según la ministra?",
+          "english": "What is the goal of the program according to the minister?"
+        },
+        "answer": {
+          "spanish": "El objetivo es facilitar la integración de los nuevos residentes.",
+          "english": "The goal is to facilitate the integration of new residents."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuántas personas se espera que participen en el primer año?",
+          "english": "How many people are expected to participate in the first year?"
+        },
+        "answer": {
+          "spanish": "Se espera que más de 5,000 personas participen.",
+          "english": "More than 5,000 people are expected to participate."
+        }
+      }
+    ]
+  }
+}

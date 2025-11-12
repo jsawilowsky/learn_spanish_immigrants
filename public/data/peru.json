@@ -1,0 +1,688 @@
+{
+  "civicsQuiz": [
+    {
+      "question": {
+        "spanish": "¿Cuándo celebra Perú su Día de la Independencia?",
+        "english": "When does Peru celebrate its Independence Day?"
+      },
+      "options": [
+        {
+          "spanish": "28 de julio",
+          "english": "July 28th"
+        },
+        {
+          "spanish": "24 de junio",
+          "english": "June 24th"
+        },
+        {
+          "spanish": "8 de octubre",
+          "english": "October 8th"
+        },
+        {
+          "spanish": "3 de agosto",
+          "english": "August 3rd"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "28 de julio",
+        "english": "July 28th"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la capital de Perú?",
+        "english": "What is the capital of Peru?"
+      },
+      "options": [
+        {
+          "spanish": "Lima",
+          "english": "Lima"
+        },
+        {
+          "spanish": "Cusco",
+          "english": "Cusco"
+        },
+        {
+          "spanish": "Arequipa",
+          "english": "Arequipa"
+        },
+        {
+          "spanish": "Trujillo",
+          "english": "Trujillo"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Lima",
+        "english": "Lima"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántas regiones tiene Perú?",
+        "english": "How many regions does Peru have?"
+      },
+      "options": [
+        {
+          "spanish": "25 regiones",
+          "english": "25 regions"
+        },
+        {
+          "spanish": "20 regiones",
+          "english": "20 regions"
+        },
+        {
+          "spanish": "30 regiones",
+          "english": "30 regions"
+        },
+        {
+          "spanish": "15 regiones",
+          "english": "15 regions"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "25 regiones",
+        "english": "25 regions"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué civilización construyó Machu Picchu?",
+        "english": "What civilization built Machu Picchu?"
+      },
+      "options": [
+        {
+          "spanish": "Los incas",
+          "english": "The Incas"
+        },
+        {
+          "spanish": "Los mayas",
+          "english": "The Mayans"
+        },
+        {
+          "spanish": "Los aztecas",
+          "english": "The Aztecs"
+        },
+        {
+          "spanish": "Los mochicas",
+          "english": "The Moche"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Los incas",
+        "english": "The Incas"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el plato más representativo de la gastronomía peruana?",
+        "english": "What is the most representative dish of Peruvian cuisine?"
+      },
+      "options": [
+        {
+          "spanish": "El ceviche",
+          "english": "Ceviche"
+        },
+        {
+          "spanish": "La paella",
+          "english": "Paella"
+        },
+        {
+          "spanish": "El asado",
+          "english": "Asado"
+        },
+        {
+          "spanish": "Los tacos",
+          "english": "Tacos"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El ceviche",
+        "english": "Ceviche"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuáles son los tres poderes del Estado peruano?",
+        "english": "What are the three branches of the Peruvian State?"
+      },
+      "options": [
+        {
+          "spanish": "Ejecutivo, Legislativo y Judicial",
+          "english": "Executive, Legislative and Judicial"
+        },
+        {
+          "spanish": "Presidente, Congreso y Ejército",
+          "english": "President, Congress and Army"
+        },
+        {
+          "spanish": "Nacional, Regional y Municipal",
+          "english": "National, Regional and Municipal"
+        },
+        {
+          "spanish": "Federal, Estatal y Local",
+          "english": "Federal, State and Local"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ejecutivo, Legislativo y Judicial",
+        "english": "Executive, Legislative and Judicial"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la moneda oficial de Perú?",
+        "english": "What is the official currency of Peru?"
+      },
+      "options": [
+        {
+          "spanish": "Sol peruano",
+          "english": "Peruvian Sol"
+        },
+        {
+          "spanish": "Peso peruano",
+          "english": "Peruvian Peso"
+        },
+        {
+          "spanish": "Dólar",
+          "english": "Dollar"
+        },
+        {
+          "spanish": "Inti",
+          "english": "Inti"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Sol peruano",
+        "english": "Peruvian Sol"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Quién fue José de San Martín para Perú?",
+        "english": "Who was José de San Martín to Peru?"
+      },
+      "options": [
+        {
+          "spanish": "El Libertador que proclamó la independencia de Perú",
+          "english": "The Liberator who proclaimed Peru's independence"
+        },
+        {
+          "spanish": "El primer presidente peruano",
+          "english": "The first Peruvian president"
+        },
+        {
+          "spanish": "Un poeta peruano",
+          "english": "A Peruvian poet"
+        },
+        {
+          "spanish": "Un conquistador español",
+          "english": "A Spanish conquistador"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El Libertador que proclamó la independencia de Perú",
+        "english": "The Liberator who proclaimed Peru's independence"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué colores tiene la bandera de Perú?",
+        "english": "What colors does the Peruvian flag have?"
+      },
+      "options": [
+        {
+          "spanish": "Rojo y blanco en franjas verticales",
+          "english": "Red and white in vertical stripes"
+        },
+        {
+          "spanish": "Verde, blanco y rojo",
+          "english": "Green, white and red"
+        },
+        {
+          "spanish": "Amarillo, azul y rojo",
+          "english": "Yellow, blue and red"
+        },
+        {
+          "spanish": "Azul y blanco",
+          "english": "Blue and white"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Rojo y blanco en franjas verticales",
+        "english": "Red and white in vertical stripes"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se promulgó la actual Constitución de Perú?",
+        "english": "In what year was the current Constitution of Peru promulgated?"
+      },
+      "options": [
+        {
+          "spanish": "1993",
+          "english": "1993"
+        },
+        {
+          "spanish": "1979",
+          "english": "1979"
+        },
+        {
+          "spanish": "1980",
+          "english": "1980"
+        },
+        {
+          "spanish": "2000",
+          "english": "2000"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1993",
+        "english": "1993"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el período presidencial en Perú?",
+        "english": "What is the presidential term in Peru?"
+      },
+      "options": [
+        {
+          "spanish": "5 años con posibilidad de reelección no inmediata",
+          "english": "5 years with possibility of non-immediate reelection"
+        },
+        {
+          "spanish": "4 años con reelección inmediata",
+          "english": "4 years with immediate reelection"
+        },
+        {
+          "spanish": "6 años sin reelección",
+          "english": "6 years without reelection"
+        },
+        {
+          "spanish": "3 años",
+          "english": "3 years"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "5 años con posibilidad de reelección no inmediata",
+        "english": "5 years with possibility of non-immediate reelection"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué océano baña las costas de Perú?",
+        "english": "What ocean borders the coasts of Peru?"
+      },
+      "options": [
+        {
+          "spanish": "Océano Pacífico",
+          "english": "Pacific Ocean"
+        },
+        {
+          "spanish": "Océano Atlántico",
+          "english": "Atlantic Ocean"
+        },
+        {
+          "spanish": "Mar Caribe",
+          "english": "Caribbean Sea"
+        },
+        {
+          "spanish": "Océano Índico",
+          "english": "Indian Ocean"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Océano Pacífico",
+        "english": "Pacific Ocean"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo se llama el Congreso peruano?",
+        "english": "What is the Peruvian Congress called?"
+      },
+      "options": [
+        {
+          "spanish": "Congreso de la República (unicameral)",
+          "english": "Congress of the Republic (unicameral)"
+        },
+        {
+          "spanish": "Asamblea Nacional",
+          "english": "National Assembly"
+        },
+        {
+          "spanish": "Congreso bicameral",
+          "english": "Bicameral Congress"
+        },
+        {
+          "spanish": "Parlamento",
+          "english": "Parliament"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Congreso de la República (unicameral)",
+        "english": "Congress of the Republic (unicameral)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué países limitan con Perú?",
+        "english": "What countries border Peru?"
+      },
+      "options": [
+        {
+          "spanish": "Ecuador, Colombia, Brasil, Bolivia y Chile",
+          "english": "Ecuador, Colombia, Brazil, Bolivia and Chile"
+        },
+        {
+          "spanish": "Solo Ecuador y Chile",
+          "english": "Only Ecuador and Chile"
+        },
+        {
+          "spanish": "Argentina y Brasil",
+          "english": "Argentina and Brazil"
+        },
+        {
+          "spanish": "Venezuela y Colombia",
+          "english": "Venezuela and Colombia"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ecuador, Colombia, Brasil, Bolivia y Chile",
+        "english": "Ecuador, Colombia, Brazil, Bolivia and Chile"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el himno nacional de Perú?",
+        "english": "What is the national anthem of Peru?"
+      },
+      "options": [
+        {
+          "spanish": "Himno Nacional del Perú (Somos libres, seámoslo siempre)",
+          "english": "National Anthem of Peru (We are free, let us remain so forever)"
+        },
+        {
+          "spanish": "La Marsellesa",
+          "english": "La Marseillaise"
+        },
+        {
+          "spanish": "Canto a la Patria",
+          "english": "Song to the Fatherland"
+        },
+        {
+          "spanish": "Himno Inca",
+          "english": "Inca Hymn"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Himno Nacional del Perú (Somos libres, seámoslo siempre)",
+        "english": "National Anthem of Peru (We are free, let us remain so forever)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la cordillera que atraviesa Perú?",
+        "english": "What mountain range crosses Peru?"
+      },
+      "options": [
+        {
+          "spanish": "Cordillera de los Andes",
+          "english": "Andes Mountain Range"
+        },
+        {
+          "spanish": "Sierra Madre",
+          "english": "Sierra Madre"
+        },
+        {
+          "spanish": "Montañas Rocosas",
+          "english": "Rocky Mountains"
+        },
+        {
+          "spanish": "Cordillera de la Costa",
+          "english": "Coastal Mountain Range"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Cordillera de los Andes",
+        "english": "Andes Mountain Range"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué región del Perú es famosa por la Amazonía?",
+        "english": "What region of Peru is famous for the Amazon?"
+      },
+      "options": [
+        {
+          "spanish": "La Selva (región oriental)",
+          "english": "The Jungle (eastern region)"
+        },
+        {
+          "spanish": "La Costa",
+          "english": "The Coast"
+        },
+        {
+          "spanish": "La Sierra",
+          "english": "The Highlands"
+        },
+        {
+          "spanish": "El Altiplano",
+          "english": "The Altiplano"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "La Selva (región oriental)",
+        "english": "The Jungle (eastern region)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año Perú se independizó de España?",
+        "english": "In what year did Peru gain independence from Spain?"
+      },
+      "options": [
+        {
+          "spanish": "1821",
+          "english": "1821"
+        },
+        {
+          "spanish": "1810",
+          "english": "1810"
+        },
+        {
+          "spanish": "1824",
+          "english": "1824"
+        },
+        {
+          "spanish": "1816",
+          "english": "1816"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1821",
+        "english": "1821"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el lago navegable más alto del mundo que comparte Perú?",
+        "english": "What is the highest navigable lake in the world that Peru shares?"
+      },
+      "options": [
+        {
+          "spanish": "Lago Titicaca (compartido con Bolivia)",
+          "english": "Lake Titicaca (shared with Bolivia)"
+        },
+        {
+          "spanish": "Lago Poopó",
+          "english": "Lake Poopó"
+        },
+        {
+          "spanish": "Lago Nicaragua",
+          "english": "Lake Nicaragua"
+        },
+        {
+          "spanish": "Lago Maracaibo",
+          "english": "Lake Maracaibo"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Lago Titicaca (compartido con Bolivia)",
+        "english": "Lake Titicaca (shared with Bolivia)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué escritor peruano ganó el Premio Nobel de Literatura?",
+        "english": "What Peruvian writer won the Nobel Prize in Literature?"
+      },
+      "options": [
+        {
+          "spanish": "Mario Vargas Llosa",
+          "english": "Mario Vargas Llosa"
+        },
+        {
+          "spanish": "César Vallejo",
+          "english": "César Vallejo"
+        },
+        {
+          "spanish": "José María Arguedas",
+          "english": "José María Arguedas"
+        },
+        {
+          "spanish": "Ciro Alegría",
+          "english": "Ciro Alegría"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Mario Vargas Llosa",
+        "english": "Mario Vargas Llosa"
+      }
+    }
+  ],
+  "interviewQuestions": [
+    {
+      "question": {
+        "spanish": "¿Por qué desea venir a Perú?",
+        "english": "Why do you want to come to Peru?"
+      },
+      "sampleAnswer": {
+        "spanish": "Deseo venir a Perú por su increíble herencia cultural, su gastronomía reconocida mundialmente y las oportunidades en el sector turístico y minero. Me interesa trabajar en Lima en gestión hotelera.",
+        "english": "I want to come to Peru for its incredible cultural heritage, its world-renowned cuisine and opportunities in the tourism and mining sector. I am interested in working in Lima in hotel management."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué conoce sobre la cultura peruana?",
+        "english": "What do you know about Peruvian culture?"
+      },
+      "sampleAnswer": {
+        "spanish": "Conozco que Perú fue el centro del Imperio Inca y tiene sitios arqueológicos como Machu Picchu. Sé que la gastronomía peruana es una de las mejores del mundo con el ceviche, el lomo saltado y la causa. También conozco la música criolla y el festejo.",
+        "english": "I know that Peru was the center of the Inca Empire and has archaeological sites like Machu Picchu. I know that Peruvian cuisine is one of the best in the world with ceviche, lomo saltado and causa. I also know criolla music and festejo."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es su experiencia profesional?",
+        "english": "What is your professional experience?"
+      },
+      "sampleAnswer": {
+        "spanish": "Tengo veinte años de experiencia en administración hotelera. He dirigido hoteles de cinco estrellas y tengo experiencia en cadenas internacionales. Hablo inglés, español y francés con fluidez.",
+        "english": "I have twenty years of experience in hotel management. I have managed five-star hotels and have experience in international chains. I speak English, Spanish and French fluently."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo planea mantenerse económicamente?",
+        "english": "How do you plan to support yourself financially?"
+      },
+      "sampleAnswer": {
+        "spanish": "Tengo una oferta de trabajo como gerente general de un hotel boutique en Miraflores, Lima. El contrato incluye un salario competitivo, seguro médico y bonificaciones. También tengo ahorros suficientes.",
+        "english": "I have a job offer as general manager of a boutique hotel in Miraflores, Lima. The contract includes a competitive salary, health insurance and bonuses. I also have sufficient savings."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Habla español con fluidez?",
+        "english": "Do you speak Spanish fluently?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sí, hablo español con total fluidez. He trabajado en España y otros países latinoamericanos. Me encanta el español peruano por su claridad y estoy aprendiendo expresiones locales como 'pata' y 'chévere'.",
+        "english": "Yes, I speak Spanish with complete fluency. I have worked in Spain and other Latin American countries. I love Peruvian Spanish for its clarity and I am learning local expressions like 'pata' and 'chévere'."
+      }
+    }
+  ],
+  "readingArticle": {
+    "title": {
+      "spanish": "Perú Simplifica Proceso de Visa de Trabajo para Profesionales",
+      "english": "Peru Simplifies Work Visa Process for Professionals"
+    },
+    "content": [
+      {
+        "spanish": "El gobierno peruano ha anunciado la digitalización del proceso de visa de trabajo para profesionales extranjeros.",
+        "english": "The Peruvian government has announced the digitalization of the work visa process for foreign professionals."
+      },
+      {
+        "spanish": "La nueva plataforma permite completar toda la solicitud de visa en línea sin necesidad de trámites presenciales.",
+        "english": "The new platform allows you to complete the entire visa application online without the need for in-person procedures."
+      },
+      {
+        "spanish": "Según Migraciones Perú, el objetivo es atraer talento internacional al país.",
+        "english": "According to Peru Migration, the objective is to attract international talent to the country."
+      },
+      {
+        "spanish": "Los sectores más beneficiados son turismo, gastronomía, minería y tecnología.",
+        "english": "The sectors most benefited are tourism, gastronomy, mining and technology."
+      },
+      {
+        "spanish": "El proceso ahora toma solo 15 días hábiles en lugar de tres meses.",
+        "english": "The process now takes only 15 business days instead of three months."
+      },
+      {
+        "spanish": "Los requisitos incluyen oferta de trabajo, título profesional y certificado de antecedentes.",
+        "english": "Requirements include job offer, professional degree and background certificate."
+      },
+      {
+        "spanish": "El costo de la visa de trabajo se mantiene en 300 dólares americanos.",
+        "english": "The cost of the work visa remains at 300 US dollars."
+      },
+      {
+        "spanish": "Se espera recibir más de 20,000 solicitudes en el primer año del nuevo sistema.",
+        "english": "More than 20,000 applications are expected to be received in the first year of the new system."
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "spanish": "¿Qué ha anunciado el gobierno peruano?",
+          "english": "What has the Peruvian government announced?"
+        },
+        "answer": {
+          "spanish": "Ha anunciado la digitalización del proceso de visa de trabajo.",
+          "english": "It has announced the digitalization of the work visa process."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuánto tiempo toma el proceso ahora?",
+          "english": "How long does the process take now?"
+        },
+        "answer": {
+          "spanish": "El proceso ahora toma solo 15 días hábiles.",
+          "english": "The process now takes only 15 business days."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuáles son los sectores más beneficiados?",
+          "english": "What are the sectors most benefited?"
+        },
+        "answer": {
+          "spanish": "Los sectores más beneficiados son turismo, gastronomía, minería y tecnología.",
+          "english": "The sectors most benefited are tourism, gastronomy, mining and technology."
+        }
+      }
+    ]
+  }
+}

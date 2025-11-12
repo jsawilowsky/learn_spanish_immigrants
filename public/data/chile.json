@@ -1,0 +1,688 @@
+{
+  "civicsQuiz": [
+    {
+      "question": {
+        "spanish": "¿Cuándo celebra Chile su Día de la Independencia?",
+        "english": "When does Chile celebrate its Independence Day?"
+      },
+      "options": [
+        {
+          "spanish": "18 de septiembre",
+          "english": "September 18th"
+        },
+        {
+          "spanish": "21 de mayo",
+          "english": "May 21st"
+        },
+        {
+          "spanish": "12 de febrero",
+          "english": "February 12th"
+        },
+        {
+          "spanish": "1 de enero",
+          "english": "January 1st"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "18 de septiembre",
+        "english": "September 18th"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la capital de Chile?",
+        "english": "What is the capital of Chile?"
+      },
+      "options": [
+        {
+          "spanish": "Santiago",
+          "english": "Santiago"
+        },
+        {
+          "spanish": "Valparaíso",
+          "english": "Valparaíso"
+        },
+        {
+          "spanish": "Concepción",
+          "english": "Concepción"
+        },
+        {
+          "spanish": "Viña del Mar",
+          "english": "Viña del Mar"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Santiago",
+        "english": "Santiago"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántas regiones tiene Chile?",
+        "english": "How many regions does Chile have?"
+      },
+      "options": [
+        {
+          "spanish": "16 regiones",
+          "english": "16 regions"
+        },
+        {
+          "spanish": "12 regiones",
+          "english": "12 regions"
+        },
+        {
+          "spanish": "20 regiones",
+          "english": "20 regions"
+        },
+        {
+          "spanish": "10 regiones",
+          "english": "10 regions"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "16 regiones",
+        "english": "16 regions"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué desierto se encuentra en el norte de Chile?",
+        "english": "What desert is located in northern Chile?"
+      },
+      "options": [
+        {
+          "spanish": "El Desierto de Atacama",
+          "english": "The Atacama Desert"
+        },
+        {
+          "spanish": "El Desierto del Sahara",
+          "english": "The Sahara Desert"
+        },
+        {
+          "spanish": "El Desierto de Sonora",
+          "english": "The Sonoran Desert"
+        },
+        {
+          "spanish": "El Desierto de Gobi",
+          "english": "The Gobi Desert"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El Desierto de Atacama",
+        "english": "The Atacama Desert"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el nombre del poeta chileno ganador del Premio Nobel?",
+        "english": "What is the name of the Chilean poet who won the Nobel Prize?"
+      },
+      "options": [
+        {
+          "spanish": "Pablo Neruda",
+          "english": "Pablo Neruda"
+        },
+        {
+          "spanish": "Gabriela Mistral",
+          "english": "Gabriela Mistral"
+        },
+        {
+          "spanish": "Ambos ganaron el Nobel",
+          "english": "Both won the Nobel"
+        },
+        {
+          "spanish": "Vicente Huidobro",
+          "english": "Vicente Huidobro"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ambos ganaron el Nobel",
+        "english": "Both won the Nobel"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuáles son los tres poderes del Estado chileno?",
+        "english": "What are the three branches of the Chilean State?"
+      },
+      "options": [
+        {
+          "spanish": "Ejecutivo, Legislativo y Judicial",
+          "english": "Executive, Legislative and Judicial"
+        },
+        {
+          "spanish": "Presidente, Congreso y Ejército",
+          "english": "President, Congress and Army"
+        },
+        {
+          "spanish": "Federal, Regional y Municipal",
+          "english": "Federal, Regional and Municipal"
+        },
+        {
+          "spanish": "Gobierno, Parlamento y Policía",
+          "english": "Government, Parliament and Police"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ejecutivo, Legislativo y Judicial",
+        "english": "Executive, Legislative and Judicial"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la moneda oficial de Chile?",
+        "english": "What is the official currency of Chile?"
+      },
+      "options": [
+        {
+          "spanish": "Peso chileno",
+          "english": "Chilean Peso"
+        },
+        {
+          "spanish": "Dólar",
+          "english": "Dollar"
+        },
+        {
+          "spanish": "Euro",
+          "english": "Euro"
+        },
+        {
+          "spanish": "Sol",
+          "english": "Sol"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Peso chileno",
+        "english": "Chilean Peso"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Quién fue Bernardo O'Higgins?",
+        "english": "Who was Bernardo O'Higgins?"
+      },
+      "options": [
+        {
+          "spanish": "El padre de la patria y primer Director Supremo de Chile",
+          "english": "The father of the nation and first Supreme Director of Chile"
+        },
+        {
+          "spanish": "Un conquistador español",
+          "english": "A Spanish conquistador"
+        },
+        {
+          "spanish": "Un poeta chileno",
+          "english": "A Chilean poet"
+        },
+        {
+          "spanish": "Un presidente reciente",
+          "english": "A recent president"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El padre de la patria y primer Director Supremo de Chile",
+        "english": "The father of the nation and first Supreme Director of Chile"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué colores tiene la bandera de Chile?",
+        "english": "What colors does the Chilean flag have?"
+      },
+      "options": [
+        {
+          "spanish": "Azul, blanco y rojo con una estrella blanca",
+          "english": "Blue, white and red with a white star"
+        },
+        {
+          "spanish": "Verde, blanco y rojo",
+          "english": "Green, white and red"
+        },
+        {
+          "spanish": "Amarillo, azul y rojo",
+          "english": "Yellow, blue and red"
+        },
+        {
+          "spanish": "Rojo y blanco",
+          "english": "Red and white"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Azul, blanco y rojo con una estrella blanca",
+        "english": "Blue, white and red with a white star"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se promulgó la actual Constitución de Chile?",
+        "english": "In what year was the current Constitution of Chile promulgated?"
+      },
+      "options": [
+        {
+          "spanish": "1980",
+          "english": "1980"
+        },
+        {
+          "spanish": "1925",
+          "english": "1925"
+        },
+        {
+          "spanish": "1990",
+          "english": "1990"
+        },
+        {
+          "spanish": "2005",
+          "english": "2005"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1980",
+        "english": "1980"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el período presidencial en Chile?",
+        "english": "What is the presidential term in Chile?"
+      },
+      "options": [
+        {
+          "spanish": "4 años sin reelección inmediata",
+          "english": "4 years without immediate reelection"
+        },
+        {
+          "spanish": "6 años sin reelección",
+          "english": "6 years without reelection"
+        },
+        {
+          "spanish": "5 años con reelección",
+          "english": "5 years with reelection"
+        },
+        {
+          "spanish": "3 años",
+          "english": "3 years"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "4 años sin reelección inmediata",
+        "english": "4 years without immediate reelection"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué océano baña las costas de Chile?",
+        "english": "What ocean borders the coasts of Chile?"
+      },
+      "options": [
+        {
+          "spanish": "Océano Pacífico",
+          "english": "Pacific Ocean"
+        },
+        {
+          "spanish": "Océano Atlántico",
+          "english": "Atlantic Ocean"
+        },
+        {
+          "spanish": "Océano Índico",
+          "english": "Indian Ocean"
+        },
+        {
+          "spanish": "Mar Mediterráneo",
+          "english": "Mediterranean Sea"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Océano Pacífico",
+        "english": "Pacific Ocean"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántas cámaras tiene el Congreso Nacional de Chile?",
+        "english": "How many chambers does the National Congress of Chile have?"
+      },
+      "options": [
+        {
+          "spanish": "Dos: Cámara de Diputados y Senado",
+          "english": "Two: Chamber of Deputies and Senate"
+        },
+        {
+          "spanish": "Una sola cámara",
+          "english": "Only one chamber"
+        },
+        {
+          "spanish": "Tres cámaras",
+          "english": "Three chambers"
+        },
+        {
+          "spanish": "Cuatro cámaras",
+          "english": "Four chambers"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Dos: Cámara de Diputados y Senado",
+        "english": "Two: Chamber of Deputies and Senate"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué países limitan con Chile?",
+        "english": "What countries border Chile?"
+      },
+      "options": [
+        {
+          "spanish": "Argentina, Bolivia y Perú",
+          "english": "Argentina, Bolivia and Peru"
+        },
+        {
+          "spanish": "Solo Argentina",
+          "english": "Only Argentina"
+        },
+        {
+          "spanish": "Argentina y Brasil",
+          "english": "Argentina and Brazil"
+        },
+        {
+          "spanish": "Perú y Ecuador",
+          "english": "Peru and Ecuador"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Argentina, Bolivia y Perú",
+        "english": "Argentina, Bolivia and Peru"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el baile nacional de Chile?",
+        "english": "What is the national dance of Chile?"
+      },
+      "options": [
+        {
+          "spanish": "La cueca",
+          "english": "The cueca"
+        },
+        {
+          "spanish": "El tango",
+          "english": "The tango"
+        },
+        {
+          "spanish": "La salsa",
+          "english": "Salsa"
+        },
+        {
+          "spanish": "El vals",
+          "english": "The waltz"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "La cueca",
+        "english": "The cueca"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué celebra Chile el 21 de mayo?",
+        "english": "What does Chile celebrate on May 21st?"
+      },
+      "options": [
+        {
+          "spanish": "Día de las Glorias Navales",
+          "english": "Day of Naval Glories"
+        },
+        {
+          "spanish": "Día de la Independencia",
+          "english": "Independence Day"
+        },
+        {
+          "spanish": "Día del Trabajador",
+          "english": "Labor Day"
+        },
+        {
+          "spanish": "Día de la Raza",
+          "english": "Columbus Day"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Día de las Glorias Navales",
+        "english": "Day of Naval Glories"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la cordillera principal que atraviesa Chile?",
+        "english": "What is the main mountain range that crosses Chile?"
+      },
+      "options": [
+        {
+          "spanish": "Cordillera de los Andes",
+          "english": "Andes Mountain Range"
+        },
+        {
+          "spanish": "Cordillera de la Costa",
+          "english": "Coastal Mountain Range"
+        },
+        {
+          "spanish": "Sierra Madre",
+          "english": "Sierra Madre"
+        },
+        {
+          "spanish": "Montañas Rocosas",
+          "english": "Rocky Mountains"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Cordillera de los Andes",
+        "english": "Andes Mountain Range"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué isla pertenece a Chile y es famosa por sus moáis?",
+        "english": "What island belongs to Chile and is famous for its moai?"
+      },
+      "options": [
+        {
+          "spanish": "Isla de Pascua (Rapa Nui)",
+          "english": "Easter Island (Rapa Nui)"
+        },
+        {
+          "spanish": "Isla de Chiloé",
+          "english": "Chiloé Island"
+        },
+        {
+          "spanish": "Isla Grande de Tierra del Fuego",
+          "english": "Tierra del Fuego"
+        },
+        {
+          "spanish": "Islas Galápagos",
+          "english": "Galapagos Islands"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Isla de Pascua (Rapa Nui)",
+        "english": "Easter Island (Rapa Nui)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el himno nacional de Chile?",
+        "english": "What is the national anthem of Chile?"
+      },
+      "options": [
+        {
+          "spanish": "Himno Nacional de Chile (Puro, Chile, es tu cielo azulado)",
+          "english": "National Anthem of Chile (Pure, Chile, is your blue sky)"
+        },
+        {
+          "spanish": "La Marsellesa",
+          "english": "La Marseillaise"
+        },
+        {
+          "spanish": "Canción Nacional",
+          "english": "National Song"
+        },
+        {
+          "spanish": "Viva Chile",
+          "english": "Long Live Chile"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Himno Nacional de Chile (Puro, Chile, es tu cielo azulado)",
+        "english": "National Anthem of Chile (Pure, Chile, is your blue sky)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la principal actividad económica de Chile?",
+        "english": "What is Chile's main economic activity?"
+      },
+      "options": [
+        {
+          "spanish": "Minería (especialmente cobre)",
+          "english": "Mining (especially copper)"
+        },
+        {
+          "spanish": "Agricultura",
+          "english": "Agriculture"
+        },
+        {
+          "spanish": "Turismo",
+          "english": "Tourism"
+        },
+        {
+          "spanish": "Manufactura automotriz",
+          "english": "Automotive manufacturing"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Minería (especialmente cobre)",
+        "english": "Mining (especially copper)"
+      }
+    }
+  ],
+  "interviewQuestions": [
+    {
+      "question": {
+        "spanish": "¿Por qué quiere venir a Chile?",
+        "english": "Why do you want to come to Chile?"
+      },
+      "sampleAnswer": {
+        "spanish": "Quiero venir a Chile porque es un país con una economía estable, excelente calidad de vida y hermosos paisajes naturales. Me interesa trabajar en el sector minero y de energías renovables.",
+        "english": "I want to come to Chile because it is a country with a stable economy, excellent quality of life and beautiful natural landscapes. I am interested in working in the mining and renewable energy sector."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué sabe sobre la cultura chilena?",
+        "english": "What do you know about Chilean culture?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sé que Chile tiene una rica tradición literaria con poetas como Pablo Neruda y Gabriela Mistral. También conozco la cueca, el baile nacional, y platos típicos como el pastel de choclo y las empanadas.",
+        "english": "I know that Chile has a rich literary tradition with poets like Pablo Neruda and Gabriela Mistral. I also know the cueca, the national dance, and typical dishes like pastel de choclo and empanadas."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Tiene experiencia en su campo profesional?",
+        "english": "Do you have experience in your professional field?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sí, tengo ocho años de experiencia como ingeniero en minas. He trabajado en proyectos de exploración y extracción de cobre y litio. Tengo certificaciones internacionales en seguridad minera.",
+        "english": "Yes, I have eight years of experience as a mining engineer. I have worked on copper and lithium exploration and extraction projects. I have international certifications in mining safety."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo planea integrarse a la sociedad chilena?",
+        "english": "How do you plan to integrate into Chilean society?"
+      },
+      "sampleAnswer": {
+        "spanish": "Planeo aprender bien el español chileno, participar en actividades comunitarias y conocer la historia del país. También quiero visitar diferentes regiones para entender mejor la diversidad cultural de Chile.",
+        "english": "I plan to learn Chilean Spanish well, participate in community activities and learn about the country's history. I also want to visit different regions to better understand Chile's cultural diversity."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Dónde piensa vivir en Chile?",
+        "english": "Where do you plan to live in Chile?"
+      },
+      "sampleAnswer": {
+        "spanish": "Estoy considerando vivir en Santiago inicialmente por las oportunidades laborales, pero me gustaría explorar otras ciudades como Valparaíso o La Serena. Prefiero un lugar cerca de mi trabajo.",
+        "english": "I am considering living in Santiago initially for job opportunities, but I would like to explore other cities like Valparaíso or La Serena. I prefer a place close to my work."
+      }
+    }
+  ],
+  "readingArticle": {
+    "title": {
+      "spanish": "Chile Amplía Programas de Capacitación para Inmigrantes",
+      "english": "Chile Expands Training Programs for Immigrants"
+    },
+    "content": [
+      {
+        "spanish": "El Ministerio del Trabajo de Chile ha lanzado una nueva iniciativa para capacitar a trabajadores inmigrantes.",
+        "english": "Chile's Ministry of Labor has launched a new initiative to train immigrant workers."
+      },
+      {
+        "spanish": "El programa ofrece cursos gratuitos en áreas como tecnología, construcción y servicios.",
+        "english": "The program offers free courses in areas such as technology, construction and services."
+      },
+      {
+        "spanish": "Según la subsecretaria de Trabajo, Carolina López, la meta es facilitar la inserción laboral.",
+        "english": "According to the Undersecretary of Labor, Carolina López, the goal is to facilitate labor insertion."
+      },
+      {
+        "spanish": "Los cursos se dictarán en modalidad presencial y en línea en las principales ciudades.",
+        "english": "The courses will be taught in person and online in major cities."
+      },
+      {
+        "spanish": "Además de la capacitación técnica, se ofrecerán talleres sobre derechos laborales en Chile.",
+        "english": "In addition to technical training, workshops on labor rights in Chile will be offered."
+      },
+      {
+        "spanish": "El programa incluye certificaciones reconocidas por empresas chilenas.",
+        "english": "The program includes certifications recognized by Chilean companies."
+      },
+      {
+        "spanish": "Se espera que más de 8,000 inmigrantes se beneficien durante este año.",
+        "english": "More than 8,000 immigrants are expected to benefit during this year."
+      },
+      {
+        "spanish": "Las inscripciones están abiertas en el sitio web del Ministerio del Trabajo.",
+        "english": "Registration is open on the Ministry of Labor website."
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "spanish": "¿Qué ofrece el nuevo programa del Ministerio?",
+          "english": "What does the Ministry's new program offer?"
+        },
+        "answer": {
+          "spanish": "Ofrece cursos gratuitos en áreas como tecnología, construcción y servicios.",
+          "english": "It offers free courses in areas such as technology, construction and services."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuál es la meta del programa?",
+          "english": "What is the goal of the program?"
+        },
+        "answer": {
+          "spanish": "La meta es facilitar la inserción laboral de los trabajadores inmigrantes.",
+          "english": "The goal is to facilitate the labor insertion of immigrant workers."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuántos inmigrantes se espera que se beneficien?",
+          "english": "How many immigrants are expected to benefit?"
+        },
+        "answer": {
+          "spanish": "Se espera que más de 8,000 inmigrantes se beneficien durante este año.",
+          "english": "More than 8,000 immigrants are expected to benefit during this year."
+        }
+      }
+    ]
+  }
+}

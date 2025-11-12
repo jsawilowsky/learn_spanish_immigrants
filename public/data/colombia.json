@@ -1,0 +1,688 @@
+{
+  "civicsQuiz": [
+    {
+      "question": {
+        "spanish": "¿Cuándo celebra Colombia su Día de la Independencia?",
+        "english": "When does Colombia celebrate its Independence Day?"
+      },
+      "options": [
+        {
+          "spanish": "20 de julio",
+          "english": "July 20th"
+        },
+        {
+          "spanish": "7 de agosto",
+          "english": "August 7th"
+        },
+        {
+          "spanish": "12 de octubre",
+          "english": "October 12th"
+        },
+        {
+          "spanish": "24 de junio",
+          "english": "June 24th"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "20 de julio",
+        "english": "July 20th"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la capital de Colombia?",
+        "english": "What is the capital of Colombia?"
+      },
+      "options": [
+        {
+          "spanish": "Bogotá",
+          "english": "Bogotá"
+        },
+        {
+          "spanish": "Medellín",
+          "english": "Medellín"
+        },
+        {
+          "spanish": "Cali",
+          "english": "Cali"
+        },
+        {
+          "spanish": "Cartagena",
+          "english": "Cartagena"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Bogotá",
+        "english": "Bogotá"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántos departamentos tiene Colombia?",
+        "english": "How many departments does Colombia have?"
+      },
+      "options": [
+        {
+          "spanish": "32 departamentos y un distrito capital",
+          "english": "32 departments and one capital district"
+        },
+        {
+          "spanish": "25 departamentos",
+          "english": "25 departments"
+        },
+        {
+          "spanish": "40 departamentos",
+          "english": "40 departments"
+        },
+        {
+          "spanish": "20 departamentos",
+          "english": "20 departments"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "32 departamentos y un distrito capital",
+        "english": "32 departments and one capital district"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué producto agrícola es Colombia famosa por exportar?",
+        "english": "What agricultural product is Colombia famous for exporting?"
+      },
+      "options": [
+        {
+          "spanish": "Café",
+          "english": "Coffee"
+        },
+        {
+          "spanish": "Bananas",
+          "english": "Bananas"
+        },
+        {
+          "spanish": "Cacao",
+          "english": "Cocoa"
+        },
+        {
+          "spanish": "Flores",
+          "english": "Flowers"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Café",
+        "english": "Coffee"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el nombre del escritor colombiano ganador del Premio Nobel?",
+        "english": "What is the name of the Colombian writer who won the Nobel Prize?"
+      },
+      "options": [
+        {
+          "spanish": "Gabriel García Márquez",
+          "english": "Gabriel García Márquez"
+        },
+        {
+          "spanish": "Álvaro Mutis",
+          "english": "Álvaro Mutis"
+        },
+        {
+          "spanish": "Fernando Vallejo",
+          "english": "Fernando Vallejo"
+        },
+        {
+          "spanish": "Jorge Isaacs",
+          "english": "Jorge Isaacs"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Gabriel García Márquez",
+        "english": "Gabriel García Márquez"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuáles son los tres poderes del Estado colombiano?",
+        "english": "What are the three branches of the Colombian State?"
+      },
+      "options": [
+        {
+          "spanish": "Ejecutivo, Legislativo y Judicial",
+          "english": "Executive, Legislative and Judicial"
+        },
+        {
+          "spanish": "Presidente, Congreso y Ejército",
+          "english": "President, Congress and Army"
+        },
+        {
+          "spanish": "Nacional, Departamental y Municipal",
+          "english": "National, Departmental and Municipal"
+        },
+        {
+          "spanish": "Federal, Regional y Local",
+          "english": "Federal, Regional and Local"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ejecutivo, Legislativo y Judicial",
+        "english": "Executive, Legislative and Judicial"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la moneda oficial de Colombia?",
+        "english": "What is the official currency of Colombia?"
+      },
+      "options": [
+        {
+          "spanish": "Peso colombiano",
+          "english": "Colombian Peso"
+        },
+        {
+          "spanish": "Dólar",
+          "english": "Dollar"
+        },
+        {
+          "spanish": "Bolívar",
+          "english": "Bolivar"
+        },
+        {
+          "spanish": "Euro",
+          "english": "Euro"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Peso colombiano",
+        "english": "Colombian Peso"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Quién fue Simón Bolívar?",
+        "english": "Who was Simón Bolívar?"
+      },
+      "options": [
+        {
+          "spanish": "El Libertador de Colombia y varias naciones sudamericanas",
+          "english": "The Liberator of Colombia and several South American nations"
+        },
+        {
+          "spanish": "El primer presidente de Colombia",
+          "english": "The first president of Colombia"
+        },
+        {
+          "spanish": "Un poeta colombiano",
+          "english": "A Colombian poet"
+        },
+        {
+          "spanish": "Un conquistador español",
+          "english": "A Spanish conquistador"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El Libertador de Colombia y varias naciones sudamericanas",
+        "english": "The Liberator of Colombia and several South American nations"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué colores tiene la bandera de Colombia?",
+        "english": "What colors does the Colombian flag have?"
+      },
+      "options": [
+        {
+          "spanish": "Amarillo, azul y rojo",
+          "english": "Yellow, blue and red"
+        },
+        {
+          "spanish": "Verde, blanco y rojo",
+          "english": "Green, white and red"
+        },
+        {
+          "spanish": "Azul, blanco y rojo",
+          "english": "Blue, white and red"
+        },
+        {
+          "spanish": "Rojo y blanco",
+          "english": "Red and white"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Amarillo, azul y rojo",
+        "english": "Yellow, blue and red"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se promulgó la actual Constitución de Colombia?",
+        "english": "In what year was the current Constitution of Colombia promulgated?"
+      },
+      "options": [
+        {
+          "spanish": "1991",
+          "english": "1991"
+        },
+        {
+          "spanish": "1886",
+          "english": "1886"
+        },
+        {
+          "spanish": "1810",
+          "english": "1810"
+        },
+        {
+          "spanish": "2000",
+          "english": "2000"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1991",
+        "english": "1991"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el período presidencial en Colombia?",
+        "english": "What is the presidential term in Colombia?"
+      },
+      "options": [
+        {
+          "spanish": "4 años con posibilidad de una reelección",
+          "english": "4 years with possibility of one reelection"
+        },
+        {
+          "spanish": "6 años sin reelección",
+          "english": "6 years without reelection"
+        },
+        {
+          "spanish": "5 años",
+          "english": "5 years"
+        },
+        {
+          "spanish": "3 años",
+          "english": "3 years"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "4 años con posibilidad de una reelección",
+        "english": "4 years with possibility of one reelection"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué océanos bordean a Colombia?",
+        "english": "What oceans border Colombia?"
+      },
+      "options": [
+        {
+          "spanish": "Océano Pacífico y Océano Atlántico (Mar Caribe)",
+          "english": "Pacific Ocean and Atlantic Ocean (Caribbean Sea)"
+        },
+        {
+          "spanish": "Solo el Océano Pacífico",
+          "english": "Only the Pacific Ocean"
+        },
+        {
+          "spanish": "Solo el Océano Atlántico",
+          "english": "Only the Atlantic Ocean"
+        },
+        {
+          "spanish": "Océano Índico y Pacífico",
+          "english": "Indian Ocean and Pacific"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Océano Pacífico y Océano Atlántico (Mar Caribe)",
+        "english": "Pacific Ocean and Atlantic Ocean (Caribbean Sea)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántas cámaras tiene el Congreso de la República de Colombia?",
+        "english": "How many chambers does the Congress of the Republic of Colombia have?"
+      },
+      "options": [
+        {
+          "spanish": "Dos: Cámara de Representantes y Senado",
+          "english": "Two: Chamber of Representatives and Senate"
+        },
+        {
+          "spanish": "Una sola cámara",
+          "english": "Only one chamber"
+        },
+        {
+          "spanish": "Tres cámaras",
+          "english": "Three chambers"
+        },
+        {
+          "spanish": "Cuatro cámaras",
+          "english": "Four chambers"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Dos: Cámara de Representantes y Senado",
+        "english": "Two: Chamber of Representatives and Senate"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué países limitan con Colombia?",
+        "english": "What countries border Colombia?"
+      },
+      "options": [
+        {
+          "spanish": "Venezuela, Brasil, Perú, Ecuador y Panamá",
+          "english": "Venezuela, Brazil, Peru, Ecuador and Panama"
+        },
+        {
+          "spanish": "Solo Venezuela y Ecuador",
+          "english": "Only Venezuela and Ecuador"
+        },
+        {
+          "spanish": "Brasil y Argentina",
+          "english": "Brazil and Argentina"
+        },
+        {
+          "spanish": "México y Panamá",
+          "english": "Mexico and Panama"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Venezuela, Brasil, Perú, Ecuador y Panamá",
+        "english": "Venezuela, Brazil, Peru, Ecuador and Panama"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el himno nacional de Colombia?",
+        "english": "What is the national anthem of Colombia?"
+      },
+      "options": [
+        {
+          "spanish": "Himno Nacional de la República de Colombia (Oh gloria inmarcesible)",
+          "english": "National Anthem of the Republic of Colombia (Oh unfading glory)"
+        },
+        {
+          "spanish": "La Marsellesa",
+          "english": "La Marseillaise"
+        },
+        {
+          "spanish": "Colombia Tierra Querida",
+          "english": "Colombia Beloved Land"
+        },
+        {
+          "spanish": "Canto a Bolívar",
+          "english": "Song to Bolívar"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Himno Nacional de la República de Colombia (Oh gloria inmarcesible)",
+        "english": "National Anthem of the Republic of Colombia (Oh unfading glory)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué baile tradicional es típico de la región Caribe de Colombia?",
+        "english": "What traditional dance is typical of Colombia's Caribbean region?"
+      },
+      "options": [
+        {
+          "spanish": "La cumbia",
+          "english": "The cumbia"
+        },
+        {
+          "spanish": "El tango",
+          "english": "The tango"
+        },
+        {
+          "spanish": "La salsa",
+          "english": "Salsa"
+        },
+        {
+          "spanish": "El vals",
+          "english": "The waltz"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "La cumbia",
+        "english": "The cumbia"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la cordillera que atraviesa Colombia?",
+        "english": "What is the mountain range that crosses Colombia?"
+      },
+      "options": [
+        {
+          "spanish": "Cordillera de los Andes (en tres ramales)",
+          "english": "Andes Mountain Range (in three branches)"
+        },
+        {
+          "spanish": "Cordillera de la Costa",
+          "english": "Coastal Mountain Range"
+        },
+        {
+          "spanish": "Sierra Madre",
+          "english": "Sierra Madre"
+        },
+        {
+          "spanish": "Montañas Rocosas",
+          "english": "Rocky Mountains"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Cordillera de los Andes (en tres ramales)",
+        "english": "Andes Mountain Range (in three branches)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué ciudad colombiana es conocida como 'La Ciudad de la Eterna Primavera'?",
+        "english": "What Colombian city is known as 'The City of Eternal Spring'?"
+      },
+      "options": [
+        {
+          "spanish": "Medellín",
+          "english": "Medellín"
+        },
+        {
+          "spanish": "Bogotá",
+          "english": "Bogotá"
+        },
+        {
+          "spanish": "Cali",
+          "english": "Cali"
+        },
+        {
+          "spanish": "Barranquilla",
+          "english": "Barranquilla"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Medellín",
+        "english": "Medellín"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se independizó Colombia de España?",
+        "english": "In what year did Colombia gain independence from Spain?"
+      },
+      "options": [
+        {
+          "spanish": "1810 (Grito de Independencia) - 1819 (Batalla de Boyacá)",
+          "english": "1810 (Cry of Independence) - 1819 (Battle of Boyacá)"
+        },
+        {
+          "spanish": "1825",
+          "english": "1825"
+        },
+        {
+          "spanish": "1776",
+          "english": "1776"
+        },
+        {
+          "spanish": "1850",
+          "english": "1850"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1810 (Grito de Independencia) - 1819 (Batalla de Boyacá)",
+        "english": "1810 (Cry of Independence) - 1819 (Battle of Boyacá)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el río más importante de Colombia?",
+        "english": "What is the most important river in Colombia?"
+      },
+      "options": [
+        {
+          "spanish": "Río Magdalena",
+          "english": "Magdalena River"
+        },
+        {
+          "spanish": "Río Amazonas",
+          "english": "Amazon River"
+        },
+        {
+          "spanish": "Río Orinoco",
+          "english": "Orinoco River"
+        },
+        {
+          "spanish": "Río Cauca",
+          "english": "Cauca River"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Río Magdalena",
+        "english": "Magdalena River"
+      }
+    }
+  ],
+  "interviewQuestions": [
+    {
+      "question": {
+        "spanish": "¿Por qué quiere venir a Colombia?",
+        "english": "Why do you want to come to Colombia?"
+      },
+      "sampleAnswer": {
+        "spanish": "Quiero venir a Colombia porque es un país con una economía creciente, una cultura vibrante y gente muy amable. Me interesa trabajar en el sector de tecnología e innovación en ciudades como Bogotá o Medellín.",
+        "english": "I want to come to Colombia because it is a country with a growing economy, a vibrant culture and very friendly people. I am interested in working in the technology and innovation sector in cities like Bogotá or Medellín."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué sabe sobre la cultura colombiana?",
+        "english": "What do you know about Colombian culture?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sé que Colombia es famosa por su café, el realismo mágico de García Márquez, y ritmos como la cumbia y el vallenato. También conozco la importancia del Carnaval de Barranquilla y la riqueza cultural de cada región.",
+        "english": "I know that Colombia is famous for its coffee, García Márquez's magical realism, and rhythms like cumbia and vallenato. I also know the importance of the Barranquilla Carnival and the cultural richness of each region."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Tiene familia en Colombia?",
+        "english": "Do you have family in Colombia?"
+      },
+      "sampleAnswer": {
+        "spanish": "No tengo familia directa en Colombia, pero tengo amigos que viven en Bogotá y me han ayudado a conocer el país. He visitado Colombia tres veces y me encantó la hospitalidad de la gente.",
+        "english": "I don't have direct family in Colombia, but I have friends who live in Bogotá and have helped me get to know the country. I have visited Colombia three times and loved the hospitality of the people."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo piensa contribuir a Colombia?",
+        "english": "How do you plan to contribute to Colombia?"
+      },
+      "sampleAnswer": {
+        "spanish": "Planeo compartir mi experiencia en desarrollo de software y transformación digital. Quiero trabajar con startups colombianas y ayudar a capacitar a jóvenes profesionales en tecnologías emergentes.",
+        "english": "I plan to share my experience in software development and digital transformation. I want to work with Colombian startups and help train young professionals in emerging technologies."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Habla español?",
+        "english": "Do you speak Spanish?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sí, hablo español con fluidez. Estudié español durante cinco años y he practicado con hablantes nativos. Estoy familiarizado con el acento colombiano y expresiones como 'parce' y 'chimba'.",
+        "english": "Yes, I speak Spanish fluently. I studied Spanish for five years and have practiced with native speakers. I am familiar with the Colombian accent and expressions like 'parce' and 'chimba'."
+      }
+    }
+  ],
+  "readingArticle": {
+    "title": {
+      "spanish": "Colombia Lanza Visa Digital para Trabajadores Remotos",
+      "english": "Colombia Launches Digital Visa for Remote Workers"
+    },
+    "content": [
+      {
+        "spanish": "Colombia ha introducido una nueva visa especial para nómadas digitales y trabajadores remotos.",
+        "english": "Colombia has introduced a new special visa for digital nomads and remote workers."
+      },
+      {
+        "spanish": "La visa permite a profesionales extranjeros vivir y trabajar en Colombia por hasta dos años.",
+        "english": "The visa allows foreign professionals to live and work in Colombia for up to two years."
+      },
+      {
+        "spanish": "Según el Ministerio de Relaciones Exteriores, esta medida busca atraer talento internacional.",
+        "english": "According to the Ministry of Foreign Affairs, this measure seeks to attract international talent."
+      },
+      {
+        "spanish": "Los requisitos incluyen demostrar ingresos mínimos mensuales de 3 salarios mínimos colombianos.",
+        "english": "Requirements include demonstrating minimum monthly income of 3 Colombian minimum wages."
+      },
+      {
+        "spanish": "La solicitud se puede hacer completamente en línea desde cualquier parte del mundo.",
+        "english": "The application can be made completely online from anywhere in the world."
+      },
+      {
+        "spanish": "Ciudades como Bogotá, Medellín y Cartagena han preparado espacios de coworking para estos trabajadores.",
+        "english": "Cities like Bogotá, Medellín and Cartagena have prepared coworking spaces for these workers."
+      },
+      {
+        "spanish": "El gobierno espera atraer más de 10,000 nómadas digitales en el primer año.",
+        "english": "The government expects to attract more than 10,000 digital nomads in the first year."
+      },
+      {
+        "spanish": "Esta iniciativa forma parte de la estrategia de reactivación económica post-pandemia.",
+        "english": "This initiative is part of the post-pandemic economic reactivation strategy."
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "spanish": "¿Para quién es la nueva visa?",
+          "english": "Who is the new visa for?"
+        },
+        "answer": {
+          "spanish": "La visa es para nómadas digitales y trabajadores remotos.",
+          "english": "The visa is for digital nomads and remote workers."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Por cuánto tiempo permite vivir en Colombia?",
+          "english": "How long does it allow you to live in Colombia?"
+        },
+        "answer": {
+          "spanish": "La visa permite vivir y trabajar en Colombia por hasta dos años.",
+          "english": "The visa allows you to live and work in Colombia for up to two years."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuántos nómadas digitales espera atraer el gobierno?",
+          "english": "How many digital nomads does the government expect to attract?"
+        },
+        "answer": {
+          "spanish": "El gobierno espera atraer más de 10,000 nómadas digitales en el primer año.",
+          "english": "The government expects to attract more than 10,000 digital nomads in the first year."
+        }
+      }
+    ]
+  }
+}
