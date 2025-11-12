@@ -215,65 +215,24 @@ export const getReadingArticle = async (countryName: string): Promise<Article> =
 };
 
 export const getNewsArticles = async (countryName: string): Promise<NewsArticle[]> => {
-    const prompt = `You are a news curator and Spanish language tutor specializing in immigration preparation for ${countryName}.
-    Generate 3 realistic current news articles from ${countryName} that would be relevant and helpful for immigrants preparing for interviews or citizenship tests.
-    These articles should simulate what someone might be asked to read and discuss during an immigration interview in Panama-style format.
-    
-    Each article should:
-    - Cover topics like: local government initiatives, cultural events, economic developments, immigration policies, public services, community programs, or national achievements
-    - Be written in natural Spanish appropriate for ${countryName}'s dialect
-    - Include a realistic source name (newspaper or media outlet common in ${countryName})
-    - Have a recent date (within last 2 months)
-    - Contain 8-12 sentences in the full text
-    - Include 5-7 key vocabulary words that immigrants should understand, with context
-    - Have 3-4 comprehension questions that test understanding like in an interview
-    
-    The articles should feel authentic and be at an intermediate Spanish level, helping immigrants practice reading and discussing current events.
-    
-    Provide the response strictly in the specified JSON format.`;
-
-    const schema = {
-        type: Type.ARRAY,
-        items: {
-            type: Type.OBJECT,
-            properties: {
-                title: bilingualTextSchema,
-                source: { type: Type.STRING },
-                date: { type: Type.STRING },
-                summary: bilingualTextSchema,
-                fullText: {
-                    type: Type.ARRAY,
-                    items: bilingualTextSchema,
-                },
-                keyVocabulary: {
-                    type: Type.ARRAY,
-                    items: {
-                        type: Type.OBJECT,
-                        properties: {
-                            spanish: { type: Type.STRING },
-                            english: { type: Type.STRING },
-                            context: { type: Type.STRING },
-                        },
-                        required: ["spanish", "english", "context"],
-                    },
-                },
-                comprehensionQuestions: {
-                    type: Type.ARRAY,
-                    items: {
-                        type: Type.OBJECT,
-                        properties: {
-                            question: bilingualTextSchema,
-                            answer: bilingualTextSchema,
-                        },
-                        required: ["question", "answer"],
-                    },
-                },
-            },
-            required: ["title", "source", "date", "summary", "fullText", "keyVocabulary", "comprehensionQuestions"],
-        },
-    };
-
-    return generateContentWithSchema<NewsArticle[]>(prompt, schema);
+    // Load real news articles from DDGS instead of generating AI content
+    try {
+        const response = await fetch('/data/news_by_country.json');
+        if (!response.ok) {
+            throw new Error('News data not available');
+        }
+        const allNews = await response.json();
+        const countryNews = allNews[countryName];
+        
+        if (!countryNews || countryNews.length === 0) {
+            throw new Error(`No news articles found for ${countryName}`);
+        }
+        
+        return countryNews;
+    } catch (error) {
+        console.error('Error loading news articles:', error);
+        throw new Error('Failed to load news articles. Please try again.');
+    }
 };
 
 export const getSpeechAudio = async (text: string): Promise<string> => {

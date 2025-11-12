@@ -19,7 +19,6 @@ const NewsReader: React.FC<NewsReaderProps> = ({ country }) => {
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
   const [visibleAnswers, setVisibleAnswers] = useState<boolean[]>([]);
-  const [showVocabulary, setShowVocabulary] = useState<boolean>(false);
 
   const loadNews = useCallback(async () => {
     try {
@@ -29,7 +28,6 @@ const NewsReader: React.FC<NewsReaderProps> = ({ country }) => {
       setArticles(fetchedArticles);
       setSelectedArticle(fetchedArticles[0]);
       setVisibleAnswers(new Array(fetchedArticles[0]?.comprehensionQuestions.length || 0).fill(false));
-      setShowVocabulary(false);
     } catch (err) {
       setError('Failed to load news articles. Please try selecting the country again.');
     } finally {
@@ -44,7 +42,6 @@ const NewsReader: React.FC<NewsReaderProps> = ({ country }) => {
   const handleArticleSelect = (article: NewsArticle) => {
     setSelectedArticle(article);
     setVisibleAnswers(new Array(article.comprehensionQuestions.length).fill(false));
-    setShowVocabulary(false);
   };
 
   const toggleAnswer = (index: number) => {
@@ -85,17 +82,21 @@ const NewsReader: React.FC<NewsReaderProps> = ({ country }) => {
 
       {/* Article metadata */}
       <div className="bg-slate-700/30 p-4 rounded-lg mb-6">
-        <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center mb-4">
-          <div>
-            <p className="text-sm text-slate-400">Source: {selectedArticle.source}</p>
-            <p className="text-xs text-slate-500">{selectedArticle.date}</p>
-          </div>
-          <button
-            onClick={() => setShowVocabulary(!showVocabulary)}
-            className="mt-2 sm:mt-0 bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-semibold py-2 px-4 rounded-lg transition-colors duration-300"
-          >
-            {showVocabulary ? 'Hide' : 'Show'} Key Vocabulary
-          </button>
+        <div className="mb-4">
+          <p className="text-sm text-slate-400 mb-1">
+            Source: {selectedArticle.source.split(' - ')[0]}
+          </p>
+          {selectedArticle.source.includes('http') && (
+            <a 
+              href={selectedArticle.source.split(' - ')[1]} 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-xs text-sky-400 hover:text-sky-300 underline break-all"
+            >
+              🔗 Read full article online
+            </a>
+          )}
+          <p className="text-xs text-slate-500 mt-1">{selectedArticle.date}</p>
         </div>
 
         {/* Title with TTS */}
@@ -117,30 +118,13 @@ const NewsReader: React.FC<NewsReaderProps> = ({ country }) => {
         </div>
       </div>
 
-      {/* Key Vocabulary Section */}
-      {showVocabulary && (
-        <div className="bg-emerald-900/20 border border-emerald-700/30 rounded-lg p-4 mb-6 animate-fade-in">
-          <h5 className="text-xl font-bold text-emerald-400 mb-3">📚 Key Vocabulary</h5>
-          <div className="space-y-3">
-            {selectedArticle.keyVocabulary.map((vocab, index) => (
-              <div key={index} className="bg-slate-800/50 p-3 rounded-lg">
-                <div className="flex items-baseline space-x-2 mb-1">
-                  <span className="text-emerald-400 font-bold">{vocab.spanish}</span>
-                  <span className="text-slate-400">→</span>
-                  <span className="text-slate-300">{vocab.english}</span>
-                </div>
-                <p className="text-sm text-slate-400 italic ml-4">{vocab.context}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      )}
 
-      {/* Full Article Text */}
+
+      {/* Article Preview */}
       <div className="bg-slate-700/30 p-6 rounded-lg mb-6">
         <h5 className="text-xl font-bold mb-4 flex items-center">
-          <span className="text-sky-400">📄 Full Article</span>
-          <span className="ml-2 text-xs text-slate-500">(Read aloud for practice)</span>
+          <span className="text-sky-400">📄 Article Preview</span>
+          <span className="ml-2 text-xs text-slate-500">(Click link above to read full article)</span>
         </h5>
         <div className="space-y-4">
           {selectedArticle.fullText.map((sentence, index) => (
