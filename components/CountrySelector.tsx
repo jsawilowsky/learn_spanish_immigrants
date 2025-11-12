@@ -9,8 +9,8 @@ interface CountrySelectorProps {
 
 const CountrySelector: React.FC<CountrySelectorProps> = ({ countries, onSelectCountry }) => {
   return (
-    <div className="max-w-md mx-auto">
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+    <div className="max-w-5xl mx-auto">
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4">
             {countries.map((country) => (
             <button
                 key={country.name}
