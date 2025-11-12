@@ -1,0 +1,688 @@
+{
+  "civicsQuiz": [
+    {
+      "question": {
+        "spanish": "¿Cuándo celebra la República Dominicana su Día de la Independencia?",
+        "english": "When does the Dominican Republic celebrate its Independence Day?"
+      },
+      "options": [
+        {
+          "spanish": "27 de febrero",
+          "english": "February 27th"
+        },
+        {
+          "spanish": "16 de agosto",
+          "english": "August 16th"
+        },
+        {
+          "spanish": "12 de octubre",
+          "english": "October 12th"
+        },
+        {
+          "spanish": "1 de enero",
+          "english": "January 1st"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "27 de febrero",
+        "english": "February 27th"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la capital de la República Dominicana?",
+        "english": "What is the capital of the Dominican Republic?"
+      },
+      "options": [
+        {
+          "spanish": "Santo Domingo",
+          "english": "Santo Domingo"
+        },
+        {
+          "spanish": "Santiago",
+          "english": "Santiago"
+        },
+        {
+          "spanish": "Puerto Plata",
+          "english": "Puerto Plata"
+        },
+        {
+          "spanish": "La Romana",
+          "english": "La Romana"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Santo Domingo",
+        "english": "Santo Domingo"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántas provincias tiene la República Dominicana?",
+        "english": "How many provinces does the Dominican Republic have?"
+      },
+      "options": [
+        {
+          "spanish": "32 provincias y un Distrito Nacional",
+          "english": "32 provinces and one National District"
+        },
+        {
+          "spanish": "25 provincias",
+          "english": "25 provinces"
+        },
+        {
+          "spanish": "40 provincias",
+          "english": "40 provinces"
+        },
+        {
+          "spanish": "20 provincias",
+          "english": "20 provinces"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "32 provincias y un Distrito Nacional",
+        "english": "32 provinces and one National District"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿De qué país se independizó la República Dominicana?",
+        "english": "From what country did the Dominican Republic gain independence?"
+      },
+      "options": [
+        {
+          "spanish": "Haití",
+          "english": "Haiti"
+        },
+        {
+          "spanish": "España",
+          "english": "Spain"
+        },
+        {
+          "spanish": "Francia",
+          "english": "France"
+        },
+        {
+          "spanish": "Estados Unidos",
+          "english": "United States"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Haití",
+        "english": "Haiti"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuáles son los tres poderes del Estado dominicano?",
+        "english": "What are the three branches of the Dominican State?"
+      },
+      "options": [
+        {
+          "spanish": "Ejecutivo, Legislativo y Judicial",
+          "english": "Executive, Legislative and Judicial"
+        },
+        {
+          "spanish": "Presidente, Congreso y Ejército",
+          "english": "President, Congress and Army"
+        },
+        {
+          "spanish": "Nacional, Provincial y Municipal",
+          "english": "National, Provincial and Municipal"
+        },
+        {
+          "spanish": "Federal, Regional y Local",
+          "english": "Federal, Regional and Local"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ejecutivo, Legislativo y Judicial",
+        "english": "Executive, Legislative and Judicial"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la moneda oficial de la República Dominicana?",
+        "english": "What is the official currency of the Dominican Republic?"
+      },
+      "options": [
+        {
+          "spanish": "Peso dominicano",
+          "english": "Dominican Peso"
+        },
+        {
+          "spanish": "Dólar",
+          "english": "Dollar"
+        },
+        {
+          "spanish": "Euro",
+          "english": "Euro"
+        },
+        {
+          "spanish": "Peso mexicano",
+          "english": "Mexican Peso"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Peso dominicano",
+        "english": "Dominican Peso"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué colores tiene la bandera de la República Dominicana?",
+        "english": "What colors does the Dominican Republic flag have?"
+      },
+      "options": [
+        {
+          "spanish": "Azul, rojo y blanco con escudo en el centro",
+          "english": "Blue, red and white with coat of arms in the center"
+        },
+        {
+          "spanish": "Verde, blanco y rojo",
+          "english": "Green, white and red"
+        },
+        {
+          "spanish": "Amarillo, azul y rojo",
+          "english": "Yellow, blue and red"
+        },
+        {
+          "spanish": "Solo azul y blanco",
+          "english": "Only blue and white"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Azul, rojo y blanco con escudo en el centro",
+        "english": "Blue, red and white with coat of arms in the center"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se promulgó la actual Constitución de la República Dominicana?",
+        "english": "In what year was the current Constitution of the Dominican Republic promulgated?"
+      },
+      "options": [
+        {
+          "spanish": "2010 (última reforma mayor en 2015)",
+          "english": "2010 (last major reform in 2015)"
+        },
+        {
+          "spanish": "1963",
+          "english": "1963"
+        },
+        {
+          "spanish": "1844",
+          "english": "1844"
+        },
+        {
+          "spanish": "2000",
+          "english": "2000"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "2010 (última reforma mayor en 2015)",
+        "english": "2010 (last major reform in 2015)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el período presidencial en la República Dominicana?",
+        "english": "What is the presidential term in the Dominican Republic?"
+      },
+      "options": [
+        {
+          "spanish": "4 años sin reelección inmediata",
+          "english": "4 years without immediate reelection"
+        },
+        {
+          "spanish": "6 años sin reelección",
+          "english": "6 years without reelection"
+        },
+        {
+          "spanish": "5 años con reelección",
+          "english": "5 years with reelection"
+        },
+        {
+          "spanish": "3 años",
+          "english": "3 years"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "4 años sin reelección inmediata",
+        "english": "4 years without immediate reelection"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Con qué país comparte la República Dominicana la isla La Española?",
+        "english": "With what country does the Dominican Republic share the island of Hispaniola?"
+      },
+      "options": [
+        {
+          "spanish": "Haití",
+          "english": "Haiti"
+        },
+        {
+          "spanish": "Cuba",
+          "english": "Cuba"
+        },
+        {
+          "spanish": "Puerto Rico",
+          "english": "Puerto Rico"
+        },
+        {
+          "spanish": "Jamaica",
+          "english": "Jamaica"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Haití",
+        "english": "Haiti"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo se llama el Congreso dominicano?",
+        "english": "What is the Dominican Congress called?"
+      },
+      "options": [
+        {
+          "spanish": "Congreso Nacional (bicameral: Senado y Cámara de Diputados)",
+          "english": "National Congress (bicameral: Senate and Chamber of Deputies)"
+        },
+        {
+          "spanish": "Asamblea Nacional",
+          "english": "National Assembly"
+        },
+        {
+          "spanish": "Congreso unicameral",
+          "english": "Unicameral Congress"
+        },
+        {
+          "spanish": "Parlamento",
+          "english": "Parliament"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Congreso Nacional (bicameral: Senado y Cámara de Diputados)",
+        "english": "National Congress (bicameral: Senate and Chamber of Deputies)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el himno nacional de la República Dominicana?",
+        "english": "What is the national anthem of the Dominican Republic?"
+      },
+      "options": [
+        {
+          "spanish": "Himno Nacional Dominicano (Quisqueyanos valientes)",
+          "english": "Dominican National Anthem (Valiant Quisqueyans)"
+        },
+        {
+          "spanish": "La Marsellesa",
+          "english": "La Marseillaise"
+        },
+        {
+          "spanish": "Canto a la Patria",
+          "english": "Song to the Fatherland"
+        },
+        {
+          "spanish": "Dominicana Linda",
+          "english": "Beautiful Dominican"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Himno Nacional Dominicano (Quisqueyanos valientes)",
+        "english": "Dominican National Anthem (Valiant Quisqueyans)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Quiénes fueron los Padres de la Patria dominicana?",
+        "english": "Who were the Fathers of the Dominican Nation?"
+      },
+      "options": [
+        {
+          "spanish": "Juan Pablo Duarte, Matías Ramón Mella y Francisco del Rosario Sánchez",
+          "english": "Juan Pablo Duarte, Matías Ramón Mella and Francisco del Rosario Sánchez"
+        },
+        {
+          "spanish": "Solo Juan Pablo Duarte",
+          "english": "Only Juan Pablo Duarte"
+        },
+        {
+          "spanish": "Simón Bolívar y José Martí",
+          "english": "Simón Bolívar and José Martí"
+        },
+        {
+          "spanish": "Cristóbal Colón",
+          "english": "Christopher Columbus"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Juan Pablo Duarte, Matías Ramón Mella y Francisco del Rosario Sánchez",
+        "english": "Juan Pablo Duarte, Matías Ramón Mella and Francisco del Rosario Sánchez"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se independizó la República Dominicana?",
+        "english": "In what year did the Dominican Republic gain independence?"
+      },
+      "options": [
+        {
+          "spanish": "1844",
+          "english": "1844"
+        },
+        {
+          "spanish": "1821",
+          "english": "1821"
+        },
+        {
+          "spanish": "1865",
+          "english": "1865"
+        },
+        {
+          "spanish": "1776",
+          "english": "1776"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1844",
+        "english": "1844"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué género musical es originario de la República Dominicana?",
+        "english": "What musical genre originates from the Dominican Republic?"
+      },
+      "options": [
+        {
+          "spanish": "El merengue y la bachata",
+          "english": "Merengue and bachata"
+        },
+        {
+          "spanish": "La salsa",
+          "english": "Salsa"
+        },
+        {
+          "spanish": "El tango",
+          "english": "Tango"
+        },
+        {
+          "spanish": "El reggaeton",
+          "english": "Reggaeton"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El merengue y la bachata",
+        "english": "Merengue and bachata"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el deporte más popular en la República Dominicana?",
+        "english": "What is the most popular sport in the Dominican Republic?"
+      },
+      "options": [
+        {
+          "spanish": "El béisbol",
+          "english": "Baseball"
+        },
+        {
+          "spanish": "El fútbol",
+          "english": "Soccer"
+        },
+        {
+          "spanish": "El baloncesto",
+          "english": "Basketball"
+        },
+        {
+          "spanish": "El voleibol",
+          "english": "Volleyball"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El béisbol",
+        "english": "Baseball"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué océano baña las costas de la República Dominicana?",
+        "english": "What ocean borders the coasts of the Dominican Republic?"
+      },
+      "options": [
+        {
+          "spanish": "Océano Atlántico y Mar Caribe",
+          "english": "Atlantic Ocean and Caribbean Sea"
+        },
+        {
+          "spanish": "Solo el Océano Pacífico",
+          "english": "Only the Pacific Ocean"
+        },
+        {
+          "spanish": "Océano Índico",
+          "english": "Indian Ocean"
+        },
+        {
+          "spanish": "Mar Mediterráneo",
+          "english": "Mediterranean Sea"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Océano Atlántico y Mar Caribe",
+        "english": "Atlantic Ocean and Caribbean Sea"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el pico más alto de la República Dominicana y del Caribe?",
+        "english": "What is the highest peak in the Dominican Republic and the Caribbean?"
+      },
+      "options": [
+        {
+          "spanish": "Pico Duarte",
+          "english": "Pico Duarte"
+        },
+        {
+          "spanish": "Pico Turquino",
+          "english": "Pico Turquino"
+        },
+        {
+          "spanish": "Monte Everest",
+          "english": "Mount Everest"
+        },
+        {
+          "spanish": "Volcán Aconcagua",
+          "english": "Aconcagua Volcano"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Pico Duarte",
+        "english": "Pico Duarte"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué significa 'Quisqueya'?",
+        "english": "What does 'Quisqueya' mean?"
+      },
+      "options": [
+        {
+          "spanish": "Es el nombre taíno de la República Dominicana (significa 'madre de todas las tierras')",
+          "english": "It is the Taino name for the Dominican Republic (means 'mother of all lands')"
+        },
+        {
+          "spanish": "Es una ciudad",
+          "english": "It is a city"
+        },
+        {
+          "spanish": "Es un río",
+          "english": "It is a river"
+        },
+        {
+          "spanish": "Es una montaña",
+          "english": "It is a mountain"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Es el nombre taíno de la República Dominicana (significa 'madre de todas las tierras')",
+        "english": "It is the Taino name for the Dominican Republic (means 'mother of all lands')"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué plato es típico de la cocina dominicana?",
+        "english": "What dish is typical of Dominican cuisine?"
+      },
+      "options": [
+        {
+          "spanish": "La bandera dominicana (arroz, habichuelas y carne)",
+          "english": "The Dominican flag (rice, beans and meat)"
+        },
+        {
+          "spanish": "Los tacos",
+          "english": "Tacos"
+        },
+        {
+          "spanish": "La paella",
+          "english": "Paella"
+        },
+        {
+          "spanish": "El sushi",
+          "english": "Sushi"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "La bandera dominicana (arroz, habichuelas y carne)",
+        "english": "The Dominican flag (rice, beans and meat)"
+      }
+    }
+  ],
+  "interviewQuestions": [
+    {
+      "question": {
+        "spanish": "¿Por qué quiere venir a la República Dominicana?",
+        "english": "Why do you want to come to the Dominican Republic?"
+      },
+      "sampleAnswer": {
+        "spanish": "Quiero venir a la República Dominicana porque es un país caribeño con gente cálida, rica cultura, música vibrante y hermosas playas. Me interesa trabajar en el sector turístico y hotelero, que es muy importante para el país.",
+        "english": "I want to come to the Dominican Republic because it is a Caribbean country with warm people, rich culture, vibrant music and beautiful beaches. I am interested in working in the tourism and hospitality sector, which is very important for the country."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué sabe sobre la cultura dominicana?",
+        "english": "What do you know about Dominican culture?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sé que la República Dominicana es la cuna del merengue y la bachata. También conozco sobre la pasión dominicana por el béisbol y la importancia de la familia en la cultura. Los dominicanos son conocidos por su hospitalidad y alegría.",
+        "english": "I know that the Dominican Republic is the birthplace of merengue and bachata. I also know about the Dominican passion for baseball and the importance of family in the culture. Dominicans are known for their hospitality and joy."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Tiene experiencia en su campo profesional?",
+        "english": "Do you have experience in your professional field?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sí, tengo diez años de experiencia en gestión hotelera y turismo. He trabajado en resorts de playa y tengo certificaciones en hospitalidad internacional. Me especializo en experiencia del cliente y operaciones de hotel.",
+        "english": "Yes, I have ten years of experience in hotel management and tourism. I have worked in beach resorts and have certifications in international hospitality. I specialize in customer experience and hotel operations."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Dónde planea vivir en la República Dominicana?",
+        "english": "Where do you plan to live in the Dominican Republic?"
+      },
+      "sampleAnswer": {
+        "spanish": "Estoy considerando vivir en Punta Cana o Santo Domingo. Punta Cana tiene muchas oportunidades en turismo, y Santo Domingo ofrece vida urbana y oportunidades culturales. Prefiero estar cerca de mi trabajo.",
+        "english": "I am considering living in Punta Cana or Santo Domingo. Punta Cana has many opportunities in tourism, and Santo Domingo offers urban life and cultural opportunities. I prefer to be close to my work."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo piensa contribuir a la sociedad dominicana?",
+        "english": "How do you plan to contribute to Dominican society?"
+      },
+      "sampleAnswer": {
+        "spanish": "Planeo contribuir compartiendo mi experiencia en gestión hotelera, ayudando a mejorar los estándares de servicio y capacitando al personal local. También quiero participar en proyectos de turismo sostenible que beneficien a las comunidades locales.",
+        "english": "I plan to contribute by sharing my experience in hotel management, helping to improve service standards and training local staff. I also want to participate in sustainable tourism projects that benefit local communities."
+      }
+    }
+  ],
+  "readingArticle": {
+    "title": {
+      "spanish": "República Dominicana Amplía Infraestructura Turística en Zonas Costeras",
+      "english": "Dominican Republic Expands Tourism Infrastructure in Coastal Areas"
+    },
+    "content": [
+      {
+        "spanish": "El Ministerio de Turismo anunció una inversión de $500 millones para mejorar la infraestructura turística.",
+        "english": "The Ministry of Tourism announced an investment of $500 million to improve tourism infrastructure."
+      },
+      {
+        "spanish": "El proyecto incluye la construcción de nuevos hoteles, mejoras en carreteras y aeropuertos regionales.",
+        "english": "The project includes the construction of new hotels, improvements to roads and regional airports."
+      },
+      {
+        "spanish": "Se espera que genere más de 15,000 empleos directos e indirectos en el sector turístico.",
+        "english": "It is expected to generate more than 15,000 direct and indirect jobs in the tourism sector."
+      },
+      {
+        "spanish": "Las zonas de Samaná, Puerto Plata y Barahona recibirán la mayor parte de la inversión.",
+        "english": "The areas of Samaná, Puerto Plata and Barahona will receive the majority of the investment."
+      },
+      {
+        "spanish": "El gobierno busca diversificar la oferta turística más allá de Punta Cana.",
+        "english": "The government seeks to diversify the tourism offering beyond Punta Cana."
+      },
+      {
+        "spanish": "También se incluyen programas de capacitación para trabajadores del sector hotelero.",
+        "english": "Training programs for hotel sector workers are also included."
+      },
+      {
+        "spanish": "La República Dominicana recibe más de 7 millones de turistas internacionales al año.",
+        "english": "The Dominican Republic receives more than 7 million international tourists per year."
+      },
+      {
+        "spanish": "El turismo representa aproximadamente el 17% del PIB del país.",
+        "english": "Tourism represents approximately 17% of the country's GDP."
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "spanish": "¿Cuánto dinero invertirá el gobierno en turismo?",
+          "english": "How much money will the government invest in tourism?"
+        },
+        "answer": {
+          "spanish": "El gobierno invertirá $500 millones para mejorar la infraestructura turística.",
+          "english": "The government will invest $500 million to improve tourism infrastructure."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuántos empleos se espera generar?",
+          "english": "How many jobs are expected to be generated?"
+        },
+        "answer": {
+          "spanish": "Se espera generar más de 15,000 empleos directos e indirectos.",
+          "english": "It is expected to generate more than 15,000 direct and indirect jobs."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Qué porcentaje del PIB representa el turismo?",
+          "english": "What percentage of GDP does tourism represent?"
+        },
+        "answer": {
+          "spanish": "El turismo representa aproximadamente el 17% del PIB del país.",
+          "english": "Tourism represents approximately 17% of the country's GDP."
+        }
+      }
+    ]
+  }
+}

@@ -4,6 +4,8 @@ export const COUNTRIES: Country[] = [
   { name: 'Argentina', flag: '🇦🇷' },
   { name: 'Chile', flag: '🇨🇱' },
   { name: 'Colombia', flag: '🇨🇴' },
+  { name: 'Costa Rica', flag: '🇨🇷' },
+  { name: 'Dominican Republic', flag: '🇩🇴' },
   { name: 'Ecuador', flag: '🇪🇨' },
   { name: 'Mexico', flag: '🇲🇽' },
   { name: 'Panama', flag: '🇵🇦' },

@@ -1,0 +1,688 @@
+{
+  "civicsQuiz": [
+    {
+      "question": {
+        "spanish": "¿Cuándo celebra Costa Rica su Día de la Independencia?",
+        "english": "When does Costa Rica celebrate its Independence Day?"
+      },
+      "options": [
+        {
+          "spanish": "15 de septiembre",
+          "english": "September 15th"
+        },
+        {
+          "spanish": "25 de julio",
+          "english": "July 25th"
+        },
+        {
+          "spanish": "12 de octubre",
+          "english": "October 12th"
+        },
+        {
+          "spanish": "1 de diciembre",
+          "english": "December 1st"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "15 de septiembre",
+        "english": "September 15th"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la capital de Costa Rica?",
+        "english": "What is the capital of Costa Rica?"
+      },
+      "options": [
+        {
+          "spanish": "San José",
+          "english": "San José"
+        },
+        {
+          "spanish": "Cartago",
+          "english": "Cartago"
+        },
+        {
+          "spanish": "Alajuela",
+          "english": "Alajuela"
+        },
+        {
+          "spanish": "Heredia",
+          "english": "Heredia"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "San José",
+        "english": "San José"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuántas provincias tiene Costa Rica?",
+        "english": "How many provinces does Costa Rica have?"
+      },
+      "options": [
+        {
+          "spanish": "7 provincias",
+          "english": "7 provinces"
+        },
+        {
+          "spanish": "5 provincias",
+          "english": "5 provinces"
+        },
+        {
+          "spanish": "10 provincias",
+          "english": "10 provinces"
+        },
+        {
+          "spanish": "12 provincias",
+          "english": "12 provinces"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "7 provincias",
+        "english": "7 provinces"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué característica única tiene Costa Rica desde 1949?",
+        "english": "What unique characteristic has Costa Rica had since 1949?"
+      },
+      "options": [
+        {
+          "spanish": "No tiene ejército",
+          "english": "It has no army"
+        },
+        {
+          "spanish": "Tiene dos presidentes",
+          "english": "It has two presidents"
+        },
+        {
+          "spanish": "No tiene constitución",
+          "english": "It has no constitution"
+        },
+        {
+          "spanish": "Tiene monarquía",
+          "english": "It has a monarchy"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "No tiene ejército",
+        "english": "It has no army"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuáles son los tres poderes del Estado costarricense?",
+        "english": "What are the three branches of the Costa Rican State?"
+      },
+      "options": [
+        {
+          "spanish": "Ejecutivo, Legislativo y Judicial",
+          "english": "Executive, Legislative and Judicial"
+        },
+        {
+          "spanish": "Presidente, Congreso y Ejército",
+          "english": "President, Congress and Army"
+        },
+        {
+          "spanish": "Nacional, Provincial y Municipal",
+          "english": "National, Provincial and Municipal"
+        },
+        {
+          "spanish": "Federal, Regional y Local",
+          "english": "Federal, Regional and Local"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ejecutivo, Legislativo y Judicial",
+        "english": "Executive, Legislative and Judicial"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es la moneda oficial de Costa Rica?",
+        "english": "What is the official currency of Costa Rica?"
+      },
+      "options": [
+        {
+          "spanish": "Colón costarricense",
+          "english": "Costa Rican Colón"
+        },
+        {
+          "spanish": "Peso costarricense",
+          "english": "Costa Rican Peso"
+        },
+        {
+          "spanish": "Dólar",
+          "english": "Dollar"
+        },
+        {
+          "spanish": "Quetzal",
+          "english": "Quetzal"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Colón costarricense",
+        "english": "Costa Rican Colón"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué colores tiene la bandera de Costa Rica?",
+        "english": "What colors does the Costa Rican flag have?"
+      },
+      "options": [
+        {
+          "spanish": "Azul, blanco y rojo",
+          "english": "Blue, white and red"
+        },
+        {
+          "spanish": "Verde, blanco y rojo",
+          "english": "Green, white and red"
+        },
+        {
+          "spanish": "Amarillo, azul y rojo",
+          "english": "Yellow, blue and red"
+        },
+        {
+          "spanish": "Solo azul y blanco",
+          "english": "Only blue and white"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Azul, blanco y rojo",
+        "english": "Blue, white and red"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se promulgó la actual Constitución de Costa Rica?",
+        "english": "In what year was the current Constitution of Costa Rica promulgated?"
+      },
+      "options": [
+        {
+          "spanish": "1949",
+          "english": "1949"
+        },
+        {
+          "spanish": "1821",
+          "english": "1821"
+        },
+        {
+          "spanish": "1889",
+          "english": "1889"
+        },
+        {
+          "spanish": "1970",
+          "english": "1970"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1949",
+        "english": "1949"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el período presidencial en Costa Rica?",
+        "english": "What is the presidential term in Costa Rica?"
+      },
+      "options": [
+        {
+          "spanish": "4 años sin reelección inmediata",
+          "english": "4 years without immediate reelection"
+        },
+        {
+          "spanish": "6 años sin reelección",
+          "english": "6 years without reelection"
+        },
+        {
+          "spanish": "5 años con reelección",
+          "english": "5 years with reelection"
+        },
+        {
+          "spanish": "3 años",
+          "english": "3 years"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "4 años sin reelección inmediata",
+        "english": "4 years without immediate reelection"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué océanos bordean a Costa Rica?",
+        "english": "What oceans border Costa Rica?"
+      },
+      "options": [
+        {
+          "spanish": "Océano Pacífico y Océano Atlántico (Mar Caribe)",
+          "english": "Pacific Ocean and Atlantic Ocean (Caribbean Sea)"
+        },
+        {
+          "spanish": "Solo el Océano Pacífico",
+          "english": "Only the Pacific Ocean"
+        },
+        {
+          "spanish": "Solo el Océano Atlántico",
+          "english": "Only the Atlantic Ocean"
+        },
+        {
+          "spanish": "Océano Índico y Pacífico",
+          "english": "Indian Ocean and Pacific"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Océano Pacífico y Océano Atlántico (Mar Caribe)",
+        "english": "Pacific Ocean and Atlantic Ocean (Caribbean Sea)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo se llama la Asamblea legislativa de Costa Rica?",
+        "english": "What is the name of Costa Rica's legislative assembly?"
+      },
+      "options": [
+        {
+          "spanish": "Asamblea Legislativa (unicameral)",
+          "english": "Legislative Assembly (unicameral)"
+        },
+        {
+          "spanish": "Congreso de la República",
+          "english": "Congress of the Republic"
+        },
+        {
+          "spanish": "Senado y Cámara",
+          "english": "Senate and Chamber"
+        },
+        {
+          "spanish": "Parlamento",
+          "english": "Parliament"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Asamblea Legislativa (unicameral)",
+        "english": "Legislative Assembly (unicameral)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué países limitan con Costa Rica?",
+        "english": "What countries border Costa Rica?"
+      },
+      "options": [
+        {
+          "spanish": "Nicaragua y Panamá",
+          "english": "Nicaragua and Panama"
+        },
+        {
+          "spanish": "Honduras y Nicaragua",
+          "english": "Honduras and Nicaragua"
+        },
+        {
+          "spanish": "Solo Nicaragua",
+          "english": "Only Nicaragua"
+        },
+        {
+          "spanish": "Panamá y Colombia",
+          "english": "Panama and Colombia"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Nicaragua y Panamá",
+        "english": "Nicaragua and Panama"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el himno nacional de Costa Rica?",
+        "english": "What is the national anthem of Costa Rica?"
+      },
+      "options": [
+        {
+          "spanish": "Himno Nacional de Costa Rica (Noble patria, tu hermosa bandera)",
+          "english": "National Anthem of Costa Rica (Noble homeland, your beautiful flag)"
+        },
+        {
+          "spanish": "La Marsellesa",
+          "english": "La Marseillaise"
+        },
+        {
+          "spanish": "Ticos Unidos",
+          "english": "United Ticos"
+        },
+        {
+          "spanish": "Costa Rica Linda",
+          "english": "Beautiful Costa Rica"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Himno Nacional de Costa Rica (Noble patria, tu hermosa bandera)",
+        "english": "National Anthem of Costa Rica (Noble homeland, your beautiful flag)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Quién es conocido como el 'Héroe Nacional' de Costa Rica?",
+        "english": "Who is known as the 'National Hero' of Costa Rica?"
+      },
+      "options": [
+        {
+          "spanish": "Juan Santamaría",
+          "english": "Juan Santamaría"
+        },
+        {
+          "spanish": "José Figueres Ferrer",
+          "english": "José Figueres Ferrer"
+        },
+        {
+          "spanish": "Simón Bolívar",
+          "english": "Simón Bolívar"
+        },
+        {
+          "spanish": "Juan Rafael Mora",
+          "english": "Juan Rafael Mora"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Juan Santamaría",
+        "english": "Juan Santamaría"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿En qué año se independizó Costa Rica de España?",
+        "english": "In what year did Costa Rica gain independence from Spain?"
+      },
+      "options": [
+        {
+          "spanish": "1821",
+          "english": "1821"
+        },
+        {
+          "spanish": "1810",
+          "english": "1810"
+        },
+        {
+          "spanish": "1848",
+          "english": "1848"
+        },
+        {
+          "spanish": "1776",
+          "english": "1776"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "1821",
+        "english": "1821"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Por qué es famoso Costa Rica a nivel mundial en términos ambientales?",
+        "english": "Why is Costa Rica famous worldwide in environmental terms?"
+      },
+      "options": [
+        {
+          "spanish": "Por su biodiversidad y conservación ambiental",
+          "english": "For its biodiversity and environmental conservation"
+        },
+        {
+          "spanish": "Por tener el desierto más grande",
+          "english": "For having the largest desert"
+        },
+        {
+          "spanish": "Por no tener bosques",
+          "english": "For having no forests"
+        },
+        {
+          "spanish": "Por su industria petrolera",
+          "english": "For its oil industry"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Por su biodiversidad y conservación ambiental",
+        "english": "For its biodiversity and environmental conservation"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué porcentaje aproximado del territorio costarricense está protegido?",
+        "english": "What approximate percentage of Costa Rican territory is protected?"
+      },
+      "options": [
+        {
+          "spanish": "Más del 25%",
+          "english": "More than 25%"
+        },
+        {
+          "spanish": "5%",
+          "english": "5%"
+        },
+        {
+          "spanish": "50%",
+          "english": "50%"
+        },
+        {
+          "spanish": "10%",
+          "english": "10%"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Más del 25%",
+        "english": "More than 25%"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el ave nacional de Costa Rica?",
+        "english": "What is the national bird of Costa Rica?"
+      },
+      "options": [
+        {
+          "spanish": "El yigüirro (mirlo pardo)",
+          "english": "The yigüirro (clay-colored thrush)"
+        },
+        {
+          "spanish": "El quetzal",
+          "english": "The quetzal"
+        },
+        {
+          "spanish": "El tucán",
+          "english": "The toucan"
+        },
+        {
+          "spanish": "El colibrí",
+          "english": "The hummingbird"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "El yigüirro (mirlo pardo)",
+        "english": "The yigüirro (clay-colored thrush)"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué significa la expresión costarricense 'Pura Vida'?",
+        "english": "What does the Costa Rican expression 'Pura Vida' mean?"
+      },
+      "options": [
+        {
+          "spanish": "Es una expresión de bienestar y positividad (como 'great' o 'hello')",
+          "english": "It's an expression of well-being and positivity (like 'great' or 'hello')"
+        },
+        {
+          "spanish": "Significa 'adiós'",
+          "english": "It means 'goodbye'"
+        },
+        {
+          "spanish": "Es una bebida típica",
+          "english": "It's a typical drink"
+        },
+        {
+          "spanish": "Es un baile tradicional",
+          "english": "It's a traditional dance"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Es una expresión de bienestar y positividad (como 'great' o 'hello')",
+        "english": "It's an expression of well-being and positivity (like 'great' or 'hello')"
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cuál es el apodo de los costarricenses?",
+        "english": "What is the nickname for Costa Ricans?"
+      },
+      "options": [
+        {
+          "spanish": "Ticos",
+          "english": "Ticos"
+        },
+        {
+          "spanish": "Chapines",
+          "english": "Chapines"
+        },
+        {
+          "spanish": "Catrachos",
+          "english": "Catrachos"
+        },
+        {
+          "spanish": "Charros",
+          "english": "Charros"
+        }
+      ],
+      "correctAnswer": {
+        "spanish": "Ticos",
+        "english": "Ticos"
+      }
+    }
+  ],
+  "interviewQuestions": [
+    {
+      "question": {
+        "spanish": "¿Por qué quiere venir a Costa Rica?",
+        "english": "Why do you want to come to Costa Rica?"
+      },
+      "sampleAnswer": {
+        "spanish": "Quiero venir a Costa Rica porque es un país pacífico, sin ejército, con excelente calidad de vida y gran respeto por la naturaleza. Me interesa trabajar en el sector de turismo sostenible y tecnología.",
+        "english": "I want to come to Costa Rica because it is a peaceful country, without an army, with excellent quality of life and great respect for nature. I am interested in working in the sustainable tourism and technology sector."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Qué sabe sobre la cultura costarricense?",
+        "english": "What do you know about Costa Rican culture?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sé que Costa Rica es famosa por su expresión 'Pura Vida' que refleja el optimismo de los ticos. También conozco sobre su compromiso con la paz, la abolición del ejército en 1949, y su liderazgo en conservación ambiental.",
+        "english": "I know that Costa Rica is famous for its expression 'Pura Vida' which reflects the optimism of ticos. I also know about its commitment to peace, the abolition of the army in 1949, and its leadership in environmental conservation."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Tiene experiencia en su campo profesional?",
+        "english": "Do you have experience in your professional field?"
+      },
+      "sampleAnswer": {
+        "spanish": "Sí, tengo siete años de experiencia en desarrollo de software y turismo digital. He trabajado en proyectos de turismo sostenible y tengo certificaciones en gestión ambiental. Me gustaría contribuir al sector tecnológico de Costa Rica.",
+        "english": "Yes, I have seven years of experience in software development and digital tourism. I have worked on sustainable tourism projects and have certifications in environmental management. I would like to contribute to Costa Rica's technology sector."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Dónde planea vivir en Costa Rica?",
+        "english": "Where do you plan to live in Costa Rica?"
+      },
+      "sampleAnswer": {
+        "spanish": "Planeo vivir en el Valle Central, posiblemente en San José o Heredia. Me gusta que está cerca de las montañas y las playas, tiene buen clima y hay muchas oportunidades laborales en tecnología.",
+        "english": "I plan to live in the Central Valley, possibly in San José or Heredia. I like that it's close to the mountains and beaches, has good weather and there are many job opportunities in technology."
+      }
+    },
+    {
+      "question": {
+        "spanish": "¿Cómo piensa integrarse a la sociedad costarricense?",
+        "english": "How do you plan to integrate into Costa Rican society?"
+      },
+      "sampleAnswer": {
+        "spanish": "Planeo aprender sobre la cultura tica, participar en actividades comunitarias y ambientales, y mejorar mi español con el acento costarricense. También quiero conocer los parques nacionales y contribuir a la conservación.",
+        "english": "I plan to learn about tico culture, participate in community and environmental activities, and improve my Spanish with the Costa Rican accent. I also want to visit the national parks and contribute to conservation."
+      }
+    }
+  ],
+  "readingArticle": {
+    "title": {
+      "spanish": "Costa Rica Lanza Nuevo Programa de Residencia para Profesionales Remotos",
+      "english": "Costa Rica Launches New Residency Program for Remote Professionals"
+    },
+    "content": [
+      {
+        "spanish": "El gobierno de Costa Rica anunció un nuevo programa de visa para nómadas digitales y trabajadores remotos.",
+        "english": "The government of Costa Rica announced a new visa program for digital nomads and remote workers."
+      },
+      {
+        "spanish": "La iniciativa busca atraer profesionales extranjeros que puedan trabajar desde Costa Rica para empresas internacionales.",
+        "english": "The initiative seeks to attract foreign professionals who can work from Costa Rica for international companies."
+      },
+      {
+        "spanish": "Los solicitantes deben demostrar ingresos mínimos de $3,000 mensuales para calificar.",
+        "english": "Applicants must demonstrate minimum income of $3,000 per month to qualify."
+      },
+      {
+        "spanish": "El programa permite residir en el país hasta por dos años, renovables.",
+        "english": "The program allows residence in the country for up to two years, renewable."
+      },
+      {
+        "spanish": "Costa Rica ofrece excelente conectividad a internet, infraestructura moderna y estabilidad política.",
+        "english": "Costa Rica offers excellent internet connectivity, modern infrastructure and political stability."
+      },
+      {
+        "spanish": "Los beneficiarios pueden traer a sus familiares dependientes bajo la misma visa.",
+        "english": "Beneficiaries can bring their dependent family members under the same visa."
+      },
+      {
+        "spanish": "No se requiere pagar impuestos costarricenses sobre ingresos generados fuera del país.",
+        "english": "There is no requirement to pay Costa Rican taxes on income generated outside the country."
+      },
+      {
+        "spanish": "Se espera que el programa atraiga a más de 5,000 profesionales durante el primer año.",
+        "english": "The program is expected to attract more than 5,000 professionals during the first year."
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "spanish": "¿Qué tipo de visa anunció Costa Rica?",
+          "english": "What type of visa did Costa Rica announce?"
+        },
+        "answer": {
+          "spanish": "Una visa para nómadas digitales y trabajadores remotos.",
+          "english": "A visa for digital nomads and remote workers."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Cuál es el ingreso mínimo requerido?",
+          "english": "What is the minimum income required?"
+        },
+        "answer": {
+          "spanish": "Los solicitantes deben demostrar ingresos mínimos de $3,000 mensuales.",
+          "english": "Applicants must demonstrate minimum income of $3,000 per month."
+        }
+      },
+      {
+        "question": {
+          "spanish": "¿Por cuánto tiempo permite residir el programa?",
+          "english": "How long does the program allow residence?"
+        },
+        "answer": {
+          "spanish": "El programa permite residir en el país hasta por dos años, renovables.",
+          "english": "The program allows residence in the country for up to two years, renewable."
+        }
+      }
+    ]
+  }
+}
